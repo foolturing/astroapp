@@ -1,0 +1,267 @@
+Nodoor.com  Certified Online Astrology Course by David Railey - 1
+COAC  Module 3  lesson 1: Progressions
+© www.nodoor.com
+A PROGRESSION is simply one of many forecasting
+techniques that an astrologer uses to advance or “progress” a
+chart forward for any time period in question.  There are
+different types of progressions or “directions.” The most
+common progressions are called Secondary Progressions
+which are the progressions you will learn about first.
+
+Secondary Progressions are called “secondary” to
+distinguish them from “Primary Directions” which will be defined in the
+Glossary of Terms listed later in this course.
+
+Secondary Progressions are often called “day for a year”
+progressions, because they equate each day that follows birth with one whole
+year of life.
+
+Thus 24 hours in the Ephemeris following birth is equal to
+12 months of life: 24 Ephemeris hours = 12 calendar months.
+“What is the historical background of Secondary Progressions?”
+Secondary Progressions were probably developed by the time of Ptolemy, as
+Progressions were used by Arab astrologers in the last millennium A.D. in
+one form or another.  You can consult.  [Devore, Op. Cit., P. 121] .Nicholas
+Devore, Encyclopedia of Astrology (New York: Philosophical Library, 1947, P.
+346. ) Also, Rob Hand offers an introduction on Secondary Progressions in
+Robert Blaschke‟s, Astrology, A Language of Life, Vol. I – Progressions.
+“The whole idea of Secondary Progressions seems crazy to me.  How
+can 1 day correspond to a whole year of someone‟s life?”
+Nodoor.com  Certified Online Astrology Course by David Railey - 2
+The first time I was introduced to Secondary Progressions I felt the
+same way.  My teacher asked me to just try them out and see if they
+correlated to real life experiences, which – as it turned out – they did!
+Nonetheless I gave a lot of thought over the years to the theory of
+Secondary Progressions, which I explain in the following pages.
+Theory of Secondary Progressions:
+ Early cosmic weather may establish a pattern duplicated in longer cycles
+At first it may seem very strange to equate the hours and days
+following birth with the months and years of a person‟s life.
+The question that arises is: “How can a smaller unit of time
+correspond or correlate with a larger period of time?”  However,
+remember, we are talking about patterns here.  During the first
+90 to 120 days of an infant‟s life, an infant is no longer
+protected by the mineral rich embryonic fluid of the womb, and
+is now exposed to an atmosphere of cosmic weather, i.e. a
+unique rhythm of solar, lunar and planetary patterns.  This all
+begins with the first breath that sets the whole natal chart into
+motion.  Consider that there are also 2 so called “soft spots” on
+a baby‟s head; one is called the anterior fontanel, which fuses
+between 12 to 14 months, and the other is the posterior fontanel,
+on the back part of the top of the head. It should be completely
+gone (because the bones have fused) by four months.  The
+suggestion being that this posterior fontanel may play a role in how these secondary progressions
+are set. Once established, these secondary progressions operate as a kind of “internal” solar
+system, like „time-release capsules‟ that resonate with “real time” issues, experiences and
+circumstances.
+ Progressions are like “Fractals”
+A fractal is a mathematical set described
+by Fractal Geometry, the study of figures
+exhibiting fractal dimension. A fractal set
+when plotted typically displays self-similar
+patterns, which means they are "the same
+from near as from far". Fractals may be
+exactly the same at every scale. They may
+be nearly the same at different scales. The
+concept of fractal extends beyond trivial
+self-similarity and includes the idea of a
+detailed pattern repeating itself!
+Nodoor.com  Certified Online Astrology Course by David Railey - 3
+A fractal is a shape that if repeated over and over will create the illusion of a three dimensional
+landscape.  Fractals are used in CGI “Computer Generated Images” that have become common
+place in films and videos.  This picture of mountains to the left was created entirely by
+multiplying “one shape” or “pattern” into millions of repetitions.
+Wind tunnel analogy:
+ Small models are used to predict larger outcomes.
+This smaller to larger correspondence is not
+unlike the construction of a model, to
+determine how a larger building or landscape
+might operate under proportionately measured
+forces.  During the design of a new airplane, a
+model airplane is tested in a wind tunnel to
+determine how it will behave under a variety of
+conditions.  These aeronautical test results will
+be used in the construction of an actual airplane,
+whose real time performance is expected to
+correlate closely with the model.
+ Thus Secondary Progressions are analogous to this wind tunnel model, in that they
+represent a smaller unit or model of time that will be duplicated in real time situations.
+Calculating Secondary Progressions
+www.nodoor.com provides FREE calculation services for secondary
+progressions.
+There are also free online sites (in English) you can go to have
+secondary progressions calculated, though you have to register on
+them:
+www.astro.com
+http://www.astrotheme.com/astrological_secondary_directions.php
+There is also astrological software for secondary progressions:
+ www.astrosoftware.com  (Kepler or Matrix are both good systems)
+ www.astrosoft.com
+ www.halloran.com
+ www.alabe.com (Solar Fire)
+Nodoor.com  Certified Online Astrology Course by David Railey - 4
+“Do we need to know how to calculate Secondary Progressions by hand?
+Will this be covered on any of the professional exams?”
+Calculating Secondary progressions by hand is not required for the ISAR
+Competency Exam or the COAC Final Exam, with the exception of the
+Progressed Moon, for which knowledge of its movement may be required.
+However, IT IS EASY TO CALCULATE SECONDARY PROGRESSIONS BY
+HAND, first all you need is an Ephemeris for the year you were born.
+If you were born before 2000, you can use an
+Ephemeris just like this to find your Secondary
+Progressions for any year in your life.
+Nodoor.com  Certified Online Astrology Course by David Railey - 5
+If you were born May 2, 1988 and you wanted to know where your Secondary Progressions are
+in 2015 just count ahead 27 days (for 27 years) and read the corresponding positions.  This
+corresponding date would be May 29.Of course, now the question is: When are these positions
+exact?Meaning, what month and day of 2015 correspond exactly to May 29, 1988?
+You can find this out by learning how to do the following calculations.  However, if you
+prefer to use free calculation sites or buy software, that‟s fine, but at least learn how to
+estimate the positions of the Progressed Moon, and how to calculate the A.C. D.
+Calculating Secondary Progressions
+Secondary Progressions are relatively easy to calculate.  First, you can just count
+ahead in your Ephemeris 1 day for each year of the person‟s life.  This will give you
+the “approximate” positions of the progressed planets.
+However, to exactly calculate the secondary progressions you have to know: “When are these
+positions listed in the Ephemeris exact?”  To determine the precise positions of the secondary
+progressions you have to find what is called the ACD, or Adjusted Calculated Date.
+To find the ACD calculate the GMT or UT of the person in question.
+For our example, use the birth chart of Brad Pitt, born December 18, 1963 at
+6:31am in Shawnee, Oklahoma, USA.
+1). Brad‟s birth time is 6:31am CST (Zone 6 West), thus his GMT or UT is
+12:31pm
+2). Find the number of hours from the UT or GMT to the followingmidnight.  The number of
+hours to the following midnight is 11hours and 29minutes.
+3). Whatever the number of hours, add this to the Sidereal Time listed in your Ephemeris at
+midnight on the date of birth.
+Use a midnight Ephemeris. (All of you have a Midnight Ephemeris)
+December 18, 1963, Sid. Time:
+05:43:33
++
+11:29:00
+17:12:33
+4). Using your Ephemeris for the year 1963 count forward if the GMTat birth is PM, or
+backwards if the GMT is AM at birth, and find the date in your Ephemeris that is closest to the
+Sid: Time of 17:12:33.  The Ephemeris Sid. Time is 17:13:30.
+You will find that this date is June 10.
+5). June 10 is your ACD or Adjusted Calculated Date.  This means that all of the positions
+listed in your Ephemeris for 1964 will correspond to June 10of the year in question.
+Nodoor.com  Certified Online Astrology Course by David Railey - 6
+6). For example, if you count in your Ephemeris from December 18, 1963 to December 19, 1963,
+then the positions listed in the Ephemeris for December 19, 1963 correspond to the actual date of
+June 10, 1964.
+7). As another example, suppose we wanted to know Brad Pitt‟s secondary progressions for his
+20th year?  Count ahead, starting with December 18, 1963 as the zero (0) date, you would find
+that January 7 corresponds to 20.  Thus the positions listed in your Ephemeris for January 7,
+1964 correspond to June 10, 1983. However, on June 10, 1983, Brad Pitt is still 19 years old.
+For the progressed positions that occur after he turns 20 years old you‟d have to look at January
+8, 1964 – this would correspond to June 10, 1984, so he would have already turned 20.  His exact
+positions for Dec. 19, 1983 would be different.
+8). Progressed Moon – the progressed Moon moves relatively fast, an average of 1 degree per
+month.  Look at the average speed of the Moon on the progressed dates in question:
+June 10, 1984: January 8, 1964
+1deg.
+29 minutes
+-
+June 10, 1983: January 7, 1964
+19deg.
+26 minutes
+24 hour range of motion of the Moon
+12deg.
+03 minutes
+To list the monthly movement of the progressed Moon you would divide this amount by 12 and
+add this increment to the Moon‟s position on Jan. 7, 1964.
+12.05⁰ ÷ 12
+months = 1.004⁰ or 1 degree and 00.25 minutes
+Progressed Moon: average monthly progressed motion 1 degree .25 of a minute.  The
+Progressed Moon is a very good timer!
+June 10, 1983
+19
+26‟
+July 10, 1983
+20
+26‟
+Aug. 10, 1983
+21
+26‟
+Sept. 10, 1983
+22
+27‟
+Oct. 10, 1983
+23
+27‟
+Nov. 10, 1983
+24
+27‟
+Dec. 10, 1983
+25
+28‟
+Jan. 10, 1984
+26
+28‟
+Feb. 10, 1984
+27
+28‟
+Mar. 10, 1984
+28
+29‟
+Apr. 10, 1984
+29
+29‟
+May 10, 1984
+0
+29‟
+June 10, 1984
+1
+29‟
+Nodoor.com  Certified Online Astrology Course by David Railey - 7
+The Progressed Moon is a great timer for shifts in issues and the
+unfolding of trends.  Use an orb of 1 degree applying and 1 degree
+separating for aspects; thus the Progressed Lunar aspects are in effect
+for 2 months, 1 degree applying then 1 degree separating.
+“Do we need to also Progress the ASC and MC?  These calculations
+look very complicated?”
+You do NOT have to learn how to calculate the Progressed ASC and
+MC by hand, unless you want to.   However, to do so you would need to
+also know how to calculate the House Cusps for a natal chart by hand.
+The formula for hand calculation of a natal chart will be given out
+during the latter part of this course.
+Progressing the Angles – the Progressed ASC and MC are very important.  There are a number
+of techniques for progressing the angles.  Here is one of the most common.
+1). If we wanted to Progress Brad Pitt‟s angles for June 10, 1983, we need to consider the
+following technique:
+Set up Brad Pitt‟s chart for the same time and place of birth, but now use the progressed Sid.
+Time for January 7, 1964.
+07:02:24
+06:03:18
++
+:59
+1:05
+Calculated Progressed Sid. Time     13:07:46
+[Calculated Sid. Time at birth is: 11:48:55 (If you want to calculate Brad’s natal Sid. Time
+formula by hand.)]
+A Progressed Chart is always set up for the place of birth, thus you would use his natal
+birthplace latitude and longitude, etc.  For Shawnee, OK USA
+Latitude 35N19‟38” Longitude 96W55‟30”
+See the natal chart listed next for Brad Pitt, followed by his Progressed Chart in bi-wheel with
+the Natal in the center wheel.
+Nodoor.com  Certified Online Astrology Course by David Railey - 8
+Nodoor.com  Certified Online Astrology Course by David Railey - 9
+Brad Pitt’s natal chart is in the center wheel.
+Brad Pitt’s Secondary Progressions are listed in the outer wheel.  His Secondary
+Progressions are for June 10, 1983, which corresponds to January 7, 1964 in your
+Ephemeris.
+Nodoor.com  Certified Online Astrology Course by David Railey - 10
+LOOK AT THE PAGES OF YOUR EMPHEMERIS FOR THE 20TH CENTURY FOR
+THE MONTH YOU WERE BORN.  EXPERIMENT BY LOOKING FOR “KEY
+ASPECTS!”  LOOK FOR WHEN THE FASTER MOVING INNER PLANETS ASPECT
+THE SLOWER MOVING OUTER PLANETS.  COMPARE THE TO YOUR
+EXPERIENCE DURING THE YEAR IN QUESTION.  FOR EXAMPLE: WHEN DID
+VENUS ASPECT PLUTO OR NEPTUNE?  DO THIS WITH ALL THE PLANETS.
+References on Secondary Progressions:
+Forrest, Steven, 1989. The Changing Sky: A Practical Guide to the New Predictive Astrology,
+ACS Publications, Inc
+Davison, R.C., The Technique of Prediction, L.N. Fowler & Co. Ltd.
+Blaschke, Robert P. 1998. Astrology, A Language of Life, Vol. I - Progressions, Earthwalk
+School of Astrology Publishing.
+Jayne, Charles A. 2011. Progressions and Directions, American Federation of Astrologers.

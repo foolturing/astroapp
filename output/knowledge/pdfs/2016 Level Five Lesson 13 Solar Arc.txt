@@ -1,0 +1,209 @@
+2016 Nodoor Core Course Level 5 Lesson 13  1 / 9
+2016 Nodoor Core Course  Level Five
+Lesson 13  SOLAR ARC
+© www.nodoor.com
+Introduction
+Solar Arc (SA) is another technique of prediction.  It is simple to use.
+Simply add the progressed movement of the Sun to “everything in the
+natal chart,” and you’ll have the Solar Arc Directions for the chart.
+Progressed        =   an average of 1 degree a year
+Though this will vary “slightly” from 57 minutes of arc to 1 degree and 2 minutes
+of arc depending upon the signs.  Due to our slightly elliptical orbit around the
+Sun it moves its slowest through the signs of Gemini and Cancer (summer
+solstice) and fastest through Sagittarius and Capricorn (winter solstice).  Over
+time this incremental difference adds up, and can equal nearly 1 degree by age
+twenty, which is termed “precessed.”
+It is simple to adjust for precession when doing your Solar Arc
+calculations by hand, and nearly all astrological software has a Solar
+Arc function.
+Solar Arc Calculations by hand:
+Suppose you want to calculate the Solar Arc positions for “Tian Wu” born June 15,
+1980 at 8am in Beijing, China for 2012 at age thirty-two.  The GMT or UT would
+be Midnight or 00:00 June 15.  Counting ahead you would find the progressed Sun
+in your Ephemeris for the corresponding date of July 17, 1980.  To find the
+movement of the Sun or “solar arc” simply subtract the Sun on June 15, 1980
+from the position of the Sun on July 17, 1980.
+July 17, 1980
+24⁰
+33’ 49”  (remember one whole sign = 30 degrees)
+(-)
+June 15, 1980
+24⁰
+02’ 30”
+2012 Solar Arc      30⁰       31’ 19”
+2016 Nodoor Core Course Level 5 Lesson 13  2 / 9
+Calculation Instructions continued…
+Now add this increment of 30⁰ 31’ 19” to everything in the natal chart.  For
+example:
+Natal MC 21⁰
+29’ + 30⁰ 31’ 19” = Solar Arc MC 22⁰
+00’ 19” (the seconds are not that
+important)
+Natal ASC  4⁰
+25’ + 30⁰ 31’ 19” = Solar Arc ASC  4⁰
+56’
+Natal
+21⁰
+05’ + 30⁰ 31’ 19” = Solar Arc
+21⁰
+36’
+Continue to add this Solar Arc to the rest of the planets, then place the Solar Arc
+Positions in the outer wheel of a bi-wheel.   Solar Arc for age 32 in June 15, 2012:
+2016 Nodoor Core Course Level 5 Lesson 13  3 / 9
+Consider the differences between Solar Arc and Secondary Progressions.  With Solar
+Arc the “integrity” of the natal chart remains the same.  If you were born with the
+Sun opposite Neptune, like Tian Wu, then your Solar Arc Directions will continue to
+show this same Sun opposition to Neptune.
+Therefore you never compare Solar Arc Directions to each other!  You only
+compare the aspects of Solar Arc Directions to the Natal Chart.
+The number one priority with Solar Arc Directions are the aspects.  The change of
+houses has some meaning, but not as much as with secondary progressions.  The
+change of signs means nothing, unlike secondary progressions.
+Aspects with the Angles have priority, and the orb is 1 degree applying and 1
+degree separating.  Therefore the influence of a Solar Arc aspect is approximately
+two years.  With Solar Arc the outer planets move too, so you get a lot of outer
+planet activity, unlike Secondary Progressions – where the outer planets can only
+be triggered by aspects from the angles or personal planets, etc.
+Also consider the difference between the Solar Arc Moon and a Secondary
+Progressed Moon, unlike the Secondary Progressed Moon that moves an average
+of 1 degree a month, the Solar Arc Moon moves an average of 1 degree a year.
+Thus a Solar Arc Moon, like the rest of the Solar Arc directions, forms aspects that
+last approximately two years.
+Here is a list of the Solar Arc aspects in effect on June 15, 2012 for Tian Wu, with a few notes:
+SA MC
+Natal square between MC and Moon triggered by sextile – “Think of what the Moon means.”
+SA MC
+Natal trine now square –  “Contact with the Nodes triggers life purpose themes.”
+SA MC
+Natal trine now “separating quincunx” – “Over last year and a half what might this suggest?”
+SA MC
+Natal quincunx now an opposition – “Radical changes in career and domestic life too”
+SA
+MC
+More MC Lunar contact!  Looks like an important year in terms of family and household!
+SA
+IC
+MC
+This aspect triggers both domestic and career life and shows serious responsibilities
+SA
+MC IC Another Neptune aspect, expressing the creative potential of the natal Neptune trine the MC
+SA
+ASC
+DSC Increased expectations; encouraged to attempt more – expansive time in relationship life
+SA
+Natal conjunction triggered – feelings of love and affection plus “attraction” of heart’s desire
+SA
+Another Neptune and Lunar aspect, suggests complications, illness/healing, creative expressions
+SA
+Life purpose and direction stimulated.  He feels a greater urgency to take charge of his life in new ways
+SA
+He is faced with some decision about how to better manage family obligations and responsibilities
+SA
+Compelling desire to express ideas he is passionate about, or ideas that emerge from research
+SA
+This underscores a Moon Neptune theme regarding this complex phase of his life
+2016 Nodoor Core Course Level 5 Lesson 13  4 / 9
+Circumstances and Issues in Tian Wu’s life in 2012
+Tian is shown here reviewing a power point presentation
+before meeting with government health-care officials.
+Over the last year he and his new company have
+developed a software program with applications that
+could simplify access to patient records for hospitals and
+clinics throughout China, benefiting both patient and
+physician and cutting costs.
+If he is able to secure a government contract his start-up
+company will be on its way to fulfilling Tian’s vision of
+succeeding in a leadership role while helping to make the
+world a better place.
+When Tian was only two years old his mother was diagnosed with Cancer, and was ill for much of his
+early childhood, though she eventually recovered after participating in a then “new” experimental
+program.  Tian grew-up with his grandparents, (his father’s parents), and rarely saw his mother or his
+father.  His dad worked long hours to pay for their many expenses.
+Tian graduated with a degree in computer science and went to work for a large IT company before
+taking a risk to start his own company nearly three years ago.  He married in June 2011 and he and his
+wife have a 5 month old daughter born July 12, 2012.  His daughter has had health complications that
+have required hospital visits and expensive medication.
+His wife’s mother moved in with them to help his wife in caring for their daughter – who seems to be
+improving – but still has special needs.  Last October of 2011 Tian and his new wife moved into a
+larger apartment, and the expenses weigh heavy upon Tian – whose sole income from his fledgling
+company now supports them.
+
+How do you see Tian’s life reflected in the Solar Arc aspects listed above?
+
+What life-path themes are being played out?
+
+What symbolizes the early environmental challenges of Tian’s childhood?
+
+What personal growth challenges has Tian had to face?
+
+What are the various levels of motivation impacting him at this time, and what clues do the
+Solar Arc trends provide?
+
+What issues would you be prepared to discuss with him?
+We will discuss this case from 2012 in class on Tuesday.  Think about these questions
+and review the solar arc aspects listed above in the material.  When preparing Solar Arc
+in advance of your forecast consultation, you should make a list of Solar Arc aspects like
+this.
+2016 Nodoor Core Course Level 5 Lesson 13  5 / 9
+Brief Solar Arc History for Steve Jobs, born Feb. 24, 1955 at 7:15 PM in San Francisco, California, USA
+1 Apr 1976  Solar Arc
+Apple Computer Inc. is incorporated by Steve Jobs, Steve Wozniak and Ron Wayne
+Spring 1976
+Steve and Woz start assembling Apple I computers in the Jobs' garage, and sell them to
+computer hobbyists, including 50 for the Byte Shop
+28 Aug 1976
+Steve Jobs and Woz show off the Apple I at the Personal Computing Festival in Atlantic City,
+with help from Dan Kottke
+Jan 1977
+Former Intel executive turned business angel Mike Markkula invests in Apple and hires former
+colleague Mike Scott as CEO. Woz is forced to leave HP to join Apple fulltime
+2016 Nodoor Core Course Level 5 Lesson 13  6 / 9
+1978 Solar Arc for May 17, 1978
+The Apple II becomes the first mass-market personal computer, with impressive sales around
+the US. Apple becomes a symbol of the personal computing revolution
+1978
+Steve's ex-girlfriend Chris-Ann Brennan gives birth to their daughter Lisa. Steve refuses to
+acknowledge he is the father
+1978
+At Apple, work starts on the Apple III and the Lisa, while Jef Raskin begins The Book of
+Macintosh
+2016 Nodoor Core Course Level 5 Lesson 13  7 / 9
+12 Dec 1980 Solar Arc
+Apple goes public, increasing Steve Jobs' net worth from dozens of millions of dollars to over
+$200 million
+Early 1981
+Jef Raskin is forced out of his Macintosh project as Steve Jobs takes over
+25 Feb 1981
+Black Wednesday: 50 Apple employees laid off by CEO Mike Scott without notice. The board
+asks him to leave shortly afterwards. Mike Markkula becomes interim CEO
+12 Aug 1981
+IBM launches the IBM PC, the biggest threat to Apple's future yet
+2016 Nodoor Core Course Level 5 Lesson 13  8 / 9
+17 Sep 1985 Solar Arc
+Steve Jobs resigns from Apple and starts NeXT with five other refugees from Apple. Apple
+announces it will sue NeXT
+30 Jan 1986
+Jobs buys the computer division of George Lucas' ILM for $10 million and incorporates it as
+Pixar
+Aug 1986
+Pixar unveils John Lasseter’s short film Luxo Jr. at SIGGRAPH. It is praised by the expert
+audience as one of the first computer-animated work of art
+1986
+Steve's mother Clara dies. A couple months later, Steve discovers his biological mother Joanne
+and his sister, novelist Mona Simpson. They will become close friends
+1986: SA
+7⁰
+Step-Mom dies
+Finds birth mother
+Finds sister
+2016 Nodoor Core Course Level 5 Lesson 13  9 / 9
+Mar 18, 1991 Solar Arc
+Steve Jobs fires almost half of Pixar’s staff and takes back all of the employees' stock in an effort
+to cut costs, as the company is still in the red 5 years after its launch
+18 Mar 1991
+Steve Jobs marries Laurene Powell in Yosemite under the blessing of Steve's old Zen guru Kobin
+Chino. Laurene is already pregnant
+May 1991
+Pixar signs a deal with Disney to make a computer-animated feature film
+Fall 1991
+Laurene gives birth to Steve’s first son, Reed Paul Jobs

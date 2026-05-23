@@ -1,0 +1,588 @@
+{
+  "birth": {
+    "date": "1984/08/26",
+    "time": "04:15",
+    "location": "lat=28.01, lon=120.65",
+    "tz_offset": 8
+  },
+  "birth_jd": 2445938.34375,
+  "birth_lat": 28.01,
+  "birth_lon": 120.65,
+  "house_system": "placidus",
+  "sect": "nocturnal",
+  "asc": "leo",
+  "asc_degree": 15.2,
+  "mc": "taurus",
+  "mc_degree": 11.1,
+  "chart_ruler": "sun",
+  "dispositor_chain": [
+    "sun",
+    "mercury"
+  ],
+  "planets": {
+    "sun": {
+      "sign": "virgo",
+      "degree": 2.8,
+      "degree_str": "virgo 2.8°",
+      "house": 1,
+      "dignity": "face",
+      "dignity_score": 1,
+      "accidental_score": 4,
+      "accidental_details": [
+        "angular"
+      ],
+      "retrograde": false
+    },
+    "moon": {
+      "sign": "leo",
+      "degree": 19.2,
+      "degree_str": "leo 19.2°",
+      "house": 1,
+      "dignity": "peregrine",
+      "dignity_score": -1,
+      "accidental_score": 4,
+      "accidental_details": [
+        "angular"
+      ],
+      "retrograde": false
+    },
+    "mercury": {
+      "sign": "virgo",
+      "degree": 8.0,
+      "degree_str": "virgo 8.0°",
+      "house": 1,
+      "dignity": "rulership",
+      "dignity_score": 5,
+      "accidental_score": 0,
+      "accidental_details": [
+        "angular",
+        "retrograde",
+        "combust",
+        "in_joy"
+      ],
+      "retrograde": true
+    },
+    "venus": {
+      "sign": "virgo",
+      "degree": 22.2,
+      "degree_str": "virgo 22.2°",
+      "house": 2,
+      "dignity": "fall",
+      "dignity_score": -4,
+      "accidental_score": 2,
+      "accidental_details": [
+        "succedent"
+      ],
+      "retrograde": false
+    },
+    "mars": {
+      "sign": "sagittarius",
+      "degree": 4.4,
+      "degree_str": "sagittarius 4.4°",
+      "house": 4,
+      "dignity": "peregrine",
+      "dignity_score": -1,
+      "accidental_score": 4,
+      "accidental_details": [
+        "angular"
+      ],
+      "retrograde": false
+    },
+    "jupiter": {
+      "sign": "capricorn",
+      "degree": 3.2,
+      "degree_str": "capricorn 3.2°",
+      "house": 5,
+      "dignity": "fall",
+      "dignity_score": -4,
+      "accidental_score": 0,
+      "accidental_details": [
+        "succedent",
+        "retrograde"
+      ],
+      "retrograde": true
+    },
+    "saturn": {
+      "sign": "scorpio",
+      "degree": 11.2,
+      "degree_str": "scorpio 11.2°",
+      "house": 4,
+      "dignity": "peregrine",
+      "dignity_score": -1,
+      "accidental_score": 7,
+      "accidental_details": [
+        "angular",
+        "conjunct_ic"
+      ],
+      "retrograde": false
+    },
+    "uranus": {
+      "sign": "sagittarius",
+      "degree": 9.6,
+      "degree_str": "sagittarius 9.6°",
+      "house": 4,
+      "dignity": "peregrine",
+      "dignity_score": -1,
+      "accidental_score": 4,
+      "accidental_details": [
+        "angular"
+      ],
+      "retrograde": false
+    },
+    "neptune": {
+      "sign": "sagittarius",
+      "degree": 28.7,
+      "degree_str": "sagittarius 28.7°",
+      "house": 5,
+      "dignity": "peregrine",
+      "dignity_score": -1,
+      "accidental_score": 0,
+      "accidental_details": [
+        "succedent",
+        "retrograde"
+      ],
+      "retrograde": true
+    },
+    "pluto": {
+      "sign": "libra",
+      "degree": 29.9,
+      "degree_str": "libra 29.9°",
+      "house": 3,
+      "dignity": "peregrine",
+      "dignity_score": -1,
+      "accidental_score": 0,
+      "accidental_details": [],
+      "retrograde": false
+    },
+    "north_node": {
+      "sign": "gemini",
+      "degree": 1.9,
+      "degree_str": "gemini 1.9°",
+      "house": 10,
+      "dignity": "peregrine",
+      "dignity_score": -1,
+      "accidental_score": 2,
+      "accidental_details": [
+        "angular",
+        "retrograde"
+      ],
+      "retrograde": true
+    }
+  },
+  "houses": {
+    "1": "leo",
+    "2": "virgo",
+    "3": "libra",
+    "4": "scorpio",
+    "5": "sagittarius",
+    "6": "capricorn",
+    "7": "aquarius",
+    "8": "pisces",
+    "9": "aries",
+    "10": "taurus",
+    "11": "gemini",
+    "12": "cancer"
+  },
+  "aspects": [
+    {
+      "planet_a": "sun",
+      "planet_b": "mercury",
+      "type": "conjunction",
+      "orb": 5.2
+    },
+    {
+      "planet_a": "sun",
+      "planet_b": "mars",
+      "type": "square",
+      "orb": 1.6
+    },
+    {
+      "planet_a": "sun",
+      "planet_b": "jupiter",
+      "type": "trine",
+      "orb": 0.4
+    },
+    {
+      "planet_a": "sun",
+      "planet_b": "uranus",
+      "type": "square",
+      "orb": 6.8
+    },
+    {
+      "planet_a": "sun",
+      "planet_b": "neptune",
+      "type": "trine",
+      "orb": 4.1
+    },
+    {
+      "planet_a": "sun",
+      "planet_b": "pluto",
+      "type": "sextile",
+      "orb": 2.8
+    },
+    {
+      "planet_a": "sun",
+      "planet_b": "north_node",
+      "type": "square",
+      "orb": 0.8
+    },
+    {
+      "planet_a": "moon",
+      "planet_b": "saturn",
+      "type": "square",
+      "orb": 8.0
+    },
+    {
+      "planet_a": "mercury",
+      "planet_b": "mars",
+      "type": "square",
+      "orb": 3.6
+    },
+    {
+      "planet_a": "mercury",
+      "planet_b": "jupiter",
+      "type": "trine",
+      "orb": 4.8
+    },
+    {
+      "planet_a": "mercury",
+      "planet_b": "saturn",
+      "type": "sextile",
+      "orb": 3.2
+    },
+    {
+      "planet_a": "mercury",
+      "planet_b": "uranus",
+      "type": "square",
+      "orb": 1.6
+    },
+    {
+      "planet_a": "mercury",
+      "planet_b": "north_node",
+      "type": "square",
+      "orb": 6.0
+    },
+    {
+      "planet_a": "venus",
+      "planet_b": "neptune",
+      "type": "square",
+      "orb": 6.5
+    },
+    {
+      "planet_a": "mars",
+      "planet_b": "uranus",
+      "type": "conjunction",
+      "orb": 5.2
+    },
+    {
+      "planet_a": "mars",
+      "planet_b": "north_node",
+      "type": "opposition",
+      "orb": 2.4
+    },
+    {
+      "planet_a": "jupiter",
+      "planet_b": "neptune",
+      "type": "conjunction",
+      "orb": 4.4
+    },
+    {
+      "planet_a": "jupiter",
+      "planet_b": "pluto",
+      "type": "sextile",
+      "orb": 3.2
+    },
+    {
+      "planet_a": "uranus",
+      "planet_b": "north_node",
+      "type": "opposition",
+      "orb": 7.6
+    },
+    {
+      "planet_a": "neptune",
+      "planet_b": "pluto",
+      "type": "sextile",
+      "orb": 1.2
+    }
+  ],
+  "receptions": [
+    {
+      "guest": "sun",
+      "received_by": [
+        {
+          "planet": "moon",
+          "levels": [
+            "triplicity"
+          ]
+        },
+        {
+          "planet": "mercury",
+          "levels": [
+            "domicile",
+            "exaltation",
+            "term"
+          ]
+        }
+      ]
+    },
+    {
+      "guest": "moon",
+      "received_by": [
+        {
+          "planet": "sun",
+          "levels": [
+            "domicile"
+          ]
+        },
+        {
+          "planet": "mercury",
+          "levels": [
+            "term"
+          ]
+        },
+        {
+          "planet": "jupiter",
+          "levels": [
+            "triplicity",
+            "face"
+          ]
+        }
+      ]
+    },
+    {
+      "guest": "mercury",
+      "received_by": [
+        {
+          "planet": "sun",
+          "levels": [
+            "face"
+          ]
+        },
+        {
+          "planet": "moon",
+          "levels": [
+            "triplicity"
+          ]
+        },
+        {
+          "planet": "venus",
+          "levels": [
+            "term"
+          ]
+        }
+      ]
+    },
+    {
+      "guest": "venus",
+      "received_by": [
+        {
+          "planet": "moon",
+          "levels": [
+            "triplicity"
+          ]
+        },
+        {
+          "planet": "mercury",
+          "levels": [
+            "domicile",
+            "exaltation",
+            "face"
+          ]
+        },
+        {
+          "planet": "mars",
+          "levels": [
+            "term"
+          ]
+        }
+      ]
+    },
+    {
+      "guest": "mars",
+      "received_by": [
+        {
+          "planet": "mercury",
+          "levels": [
+            "face"
+          ]
+        },
+        {
+          "planet": "jupiter",
+          "levels": [
+            "domicile",
+            "triplicity",
+            "term"
+          ]
+        }
+      ]
+    },
+    {
+      "guest": "jupiter",
+      "received_by": [
+        {
+          "planet": "moon",
+          "levels": [
+            "triplicity"
+          ]
+        },
+        {
+          "planet": "mercury",
+          "levels": [
+            "term"
+          ]
+        },
+        {
+          "planet": "mars",
+          "levels": [
+            "exaltation"
+          ]
+        },
+        {
+          "planet": "saturn",
+          "levels": [
+            "domicile"
+          ]
+        }
+      ]
+    },
+    {
+      "guest": "saturn",
+      "received_by": [
+        {
+          "planet": "sun",
+          "levels": [
+            "face"
+          ]
+        },
+        {
+          "planet": "mercury",
+          "levels": [
+            "term"
+          ]
+        },
+        {
+          "planet": "mars",
+          "levels": [
+            "domicile",
+            "triplicity"
+          ]
+        }
+      ]
+    },
+    {
+      "guest": "uranus",
+      "received_by": [
+        {
+          "planet": "mercury",
+          "levels": [
+            "face"
+          ]
+        },
+        {
+          "planet": "jupiter",
+          "levels": [
+            "domicile",
+            "triplicity",
+            "term"
+          ]
+        }
+      ]
+    },
+    {
+      "guest": "neptune",
+      "received_by": [
+        {
+          "planet": "mars",
+          "levels": [
+            "term"
+          ]
+        },
+        {
+          "planet": "jupiter",
+          "levels": [
+            "domicile",
+            "triplicity"
+          ]
+        },
+        {
+          "planet": "saturn",
+          "levels": [
+            "face"
+          ]
+        }
+      ]
+    },
+    {
+      "guest": "pluto",
+      "received_by": [
+        {
+          "planet": "mercury",
+          "levels": [
+            "triplicity"
+          ]
+        },
+        {
+          "planet": "venus",
+          "levels": [
+            "domicile"
+          ]
+        },
+        {
+          "planet": "mars",
+          "levels": [
+            "term"
+          ]
+        },
+        {
+          "planet": "jupiter",
+          "levels": [
+            "face"
+          ]
+        },
+        {
+          "planet": "saturn",
+          "levels": [
+            "exaltation"
+          ]
+        }
+      ]
+    },
+    {
+      "guest": "north_node",
+      "received_by": [
+        {
+          "planet": "mercury",
+          "levels": [
+            "domicile",
+            "triplicity",
+            "term"
+          ]
+        },
+        {
+          "planet": "jupiter",
+          "levels": [
+            "face"
+          ]
+        }
+      ]
+    }
+  ],
+  "mutual_receptions": [
+    [
+      "mars",
+      "jupiter"
+    ]
+  ],
+  "lots": {
+    "fortune": {
+      "sign": "leo",
+      "house": 1,
+      "degree": 28.8
+    },
+    "spirit": {
+      "sign": "leo",
+      "house": 12,
+      "degree": 1.5
+    }
+  }
+}

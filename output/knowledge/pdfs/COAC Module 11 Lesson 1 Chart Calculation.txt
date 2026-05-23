@@ -1,0 +1,615 @@
+1
+COAC Module 11 Lesson 1
+Chart calculation & becoming familiar with your reference books!
+“Learning the astronomy and math of astrology.”
+© www.nodoor.com
+All of you have seen what an astrological chart looks like.  However, do you know
+what you’re actually looking at?  Do you understand the physical phenomena of the
+chart structure?  Are you familiar with the mathematical formulas utilized in chart
+calculation and construction?  Since the advent of astrology software and free sites
+on the internet, chart calculation has become as simple as the click of a mouse.
+Unfortunately this easy access has robbed many astrology students of an experience
+that offers a more fundamental grasp of the very tools they are using.
+In addition, the use of astrological software, internet produced charts and related
+material has replaced the use of reference books for many students, such as an
+Ephemeris or Table of Houses.  While astrological software is an essential time
+saving tool for the modern astrologer, the student misses out on the very useful
+process of learning how to keep track of the planets in an Ephemeris.  Not only is an
+Ephemeris a practical tool for keeping-up with day to day, or even monthly solar,
+lunar or planetary positions, but the simple turning of pages in a 50 year or 100 year
+Ephemeris provides an immediate reference to long term planetary cycles.  You can
+look back to see what happened the last time a similar planetary position occurred
+and you can look forward to see when it will occur again.
+20th Century Ephemeris for Midnight
+Universal Time, 8:00 Beijing Time
+21st Century Ephemeris for Midnight UT,
+8:00 Beijing Time, 2000 - 2050
+2
+This “The New American Ephemeris for the 20th Century”
+contains all of the data listed in the previous “red” version
+of “The American Emphemeris for the 20th Century” listed
+above, but with updated additions: the former asteroid
+“Ceres” has been upgraded to a dwarf planet like Pluto and
+is included in the daily lists of planets.  Monthly positions
+for the ‘new’ planet Eris are listed, along with the comet
+Chiron and the monthly positions of the primary asteroids
+Pallas, Juno and Vesta.  It is also written for midnight U.T.
+The pages of all of these various Ephemeri list a variety of data this you will utilize as
+an astrology, both in doing chart calculations and in doing forecasts for your clients.
+Familarize yourself with the data available on the pages of your ephemeris.
+Here is the top half of a page from The American Ephemeris for the 20th Century, for November 1980.
+Note where it says LONGITUDE, this simply referes to the positions of the planets along the ecliptic.  The
+ecliptic is the apparent path of the Sun around the Earth, in fact the Earth’s orbit around the Sun.  The
+eclipitic is divided into 12 signs, the signs of the Zodiac.   Each sign equals 30 degress X 12 = 360 degrees.
+Thus the ecliptic is measured by ‘zodiacal longitude’ or the longitude of the zodiac.  (Do not confuse
+zodiacal longitude with the lines of longitude on a map or globe, which is terestrial longitude.)
+Sid. Time is short for Sidereal Time from the latin siderus for star, thus “Star Time.”  You will
+refer to this column of Sidereal Time when you learn to calculate the house positions of a chart.
+3
+Learning to use your Ephemeris:
+January 1978                    February 1978
+Above is the lower half of an ephemeris page from The American Ephemeris for the 20th Century
+for February 1978 (the month of January would appear above it on the same page).  These
+additional explanations are meant to help you identify the phenomena listed on each page of both
+your 20th Century Ephemeris and your 21st Century Ephemeris for 2001 – 2050.  A complete
+explanation of these phenomena is listed inside your Ephemeris. Keep in mind that many of these
+terms are astronomical; you will learn which ones are the more important astrologically.
+OS – South of celestial equator
+ON – North of celestial equator
+R – retrograde D – direct, plus
+exact major aspects Jupiter,
+Saturn, Uranus, Neptune &
+Pluto. Day, hour, and minute
+Ingress – planet ‘entering’ a sign,
+day, hour, and minute.
+Last major aspect the Moon makes in a sign, after
+which the Moon is said to be “void of course.”
+Ingress – Moon enters a new sign, day, hour and
+minute
+Lunar Phases & Eclipses
+Jan. 31 23:51 Last Quarter
+Feb. 7 14:54 New Moon
+Feb. 14 22:11 First Quarter
+Feb. 23 01:26 Full Moon
+(zodiac positions shown)
+Julian Day – days since Julian calendar adopted.
+Note that Chiron is now considered a comet
+rather than a planetoid – the older designation.
+Obliquity refers to the Earth’s exact tilt as
+measured from the Ecliptic.
+4
+The Daily Aspectarian listed below is for June 2011 and comes from The New American
+Ephemeris 2007 – 2020.  In addition to the exact times of major aspects for the Sun, Moon and
+Planets, minor aspects are also listed.  Aspects to both Chiron and Ceres are also included.  All of
+the times listed can be easily converted into Beijing Time by adding 8 hours.  Thus the first
+aspected listed for June 1, Moon square Neptune would be 9:44 Beijing Time.
+Astrological Diary
+Use this Daily Aspectarian like a diary.  Compare the aspects listed to your natal
+chart and the charts of friends.  Keep up with the daily aspects along with the
+Moon’s sign, phase, and other planetary phenomena.  Look at your Ephemeris
+several times a day.  Always know where the transiting planets are, at first by sign
+and later by degree.  By comparing these transiting planets positions to your natal
+chart you will learn quickly how these planets relate to your day to day experiences.
+If Mars is transiting your Moon by conjunction, square or opposition you will “feel”
+this!  Make notes about what you feel.  The same is true of any of the faster moving
+planets.  The outer planets indicate long term trends.  If you are having an outer
+planet transit pay attention to the faster moving planets, including the Sun and even
+the Moon as they trigger this outer planet transit.  Use an orb of 3 degrees applying
+and one degree separating for transiting aspects to your natal chart.
+5
+Here is a page from the New American Ephemeris 2007 – 2020.  This page is also included in your
+reference material.  Note that both the dwarf planet Ceres and the comet Chiron are now listed
+with the planets, along with the asteroids for every 5 days: Pallas, Juno and Vesta, and the
+monthly positions of the new dwarf planet Eris.
+Also note that both DECLINATION and LATITUDE positions are listed.
+DECLINATION – means north or south of the celestial equator.  If 2 planets share the same exact
+degree north or south in declination they are said to make an aspect called a parallel – this aspect
+is listed in your aspectarian as II, or if one planet is the same degree north and the other is the
+same degree south they are called contraparallel listed in your aspectarian as II.  The parallel is
+treated like a conjunction, the contraparallel like an opposition, both with an orb of only 1 degree.
+Not all astrologers use declination, the consensus is that these aspects reinforce major aspects.
+6
+LATITUDE in an Ephemeris – means north or south of the ecliptic, called ‘planetary latitude.’
+Planetary latitude is rarely used or even understood by most astrologers.  The degrees north or
+south of the ecliptic are relatively small compared to declination.  However, some financial
+astrologers have found latitude to correlate with both the commodity market and stock market
+price action.  Latitude deserves further research in regards to natal chart analysis and forecasting.
+This diagram of the celestial sphere shows both the Celestial Equator and the Ecliptic.  Declination is clearly shown,
+marked by degrees in this diagram south of the great circle of the Celestial Equator – the celestial equator is in fact the
+Earth’s equator extended out into space.   The Ecliptic is also shown in this diagram, but Latitude is not pictured –
+which would be measured north and south of the blue circle representing the Ecliptic.  The astronomical
+measurement of Right Ascension shown is ‘not’ used by astrologers, but as the diagram shows measures ‘hours’ along
+the celestial equator.  Note that this diagram positions the celestial sphere of our Earth perpendicular to the poles
+rather than showing the Earth’s tilt; that tilt is shown instead by the angle of the Ecliptic.
+Also depicted in this diagram are the Equinox and Solstice points.  The Vernal Equinox corresponding to 0 degrees
+Aries, the Summer Solstice to 0 degrees Cancer, the Autumnal Equinox 0 degrees of Libra, and the Winter Solstice to
+0 degrees of Capricorn.  This diagram reminds us how the zodiac corresponds to the very real physical phenomena of
+the Earth’s tilt and the corresponding seasonal shifts.  The zodiac primarily used in the west is called the “Tropical
+Zodiac” because the ‘tropics’ correspond to the limits along which the Sun can appear directly overhead at Noon
+during Summer Solstice.  This line corresponds to the terrestrial latitude on our globe of 23 degrees North 27 minutes
+and 23 degrees South 27 minutes.  All locations that fall between these terrestrial or geographic lines of latitude on
+the globe or map are said to be in the ‘tropics,’ i.e. 23 degrees 27 minutes north or south of our equator. We call these
+‘warm’ locales the tropics.  All of these phenomena are due the Earth’s tilt on its axis as it orbits the Sun.
+7
+HOUSES: TABLES OF HOUSES:
+KOCH Tables of Houses
+Both copies of the Birthplace Tables of Houses are nearly identical on the inside, the difference
+being that some of the hard covers are from latitudes 0 – 66 degrees North, while the soft covers
+are from 0 – 60 degrees North.  There are three different covers of this book, 1 dark blue, the
+other 2 are orange: Birthplace Tables of Houses for Northern Latitudes, von Dr. Walter A. Koch
+The Koch Tables of Houses, as they are commonly known, are the 2nd most popular book of
+Houses.  The most common book of houses is the Placidus House System sometimes called
+Dalton’s Placidus Tables of Houses.  Placidus is the most common in part due to it being the first
+Table of House available for use in the west for nearly 70 years.  The Koch Tables of House were
+developed by Walter A. Koch, a German astrologer that worked on perfecting these tables for
+some thirty years, including those years he spent in a Nazi concentration camp during World War II
+– during which his books and tables were confiscated and destroyed.  Having the Sun, Moon and
+ASCN in Virgo, he continued to work on these tables in his mind and when WWII ended he
+published his work and wrote articles justifying his techniques and methodology.  The Koch Tables
+first became popular in the United States during the early 1970’s and have nearly surpassed the
+Placidus Tables in usage at this point in western astrology.  Both the Placidus House Tables and the
+Koch House Tables list the same Ascendant and Mid-heaven, where they differ is on the cusps of
+the ‘intermediate houses,’ the 11th House, the 12th House, the 2nd House and the 3rd House cusps,
+all of which are listed in both books.  There are quite a number of other Tables of Houses in use.
+Perhaps the most common being the Equal House System, which measures all of the houses in
+equal 30 degree segments starting with the Ascendant.
+8
+Other House Systems include:
+Campanus
+Meridian
+Morinus
+Porphyry
+Regiomontanus
+Topocentric
+Whole Sign
+Geodetic
+Alcabitius
+Neo-Porphry
+All house systems are attempts to divide the celestial sphere above into sections. Most house
+systems utilize formulas for dividing the sky above and below the horizon.  The Whole Sign system
+simply designates an entire House as the ‘whole sign’ for whatever sign is on the House cusp,
+regardless of the degree; an ASCN of 29 degrees of Leo would still make the entire 1st House Leo
+regardless.  Other House Systems are more complex and make use of different coordinates
+involving the celestial sphere.  Much of the mathematical conflict regarding house systems and
+tables is a dispute over how to “tri-sect the diurnal arc,” which means simply, how to divide the
+sky between sunrise and true noon into 3 sections. This issue is hotly debated.  So far no one has
+proven their house system to be any better than that of Walter A. Koch.  However, the Equal
+House System is recommended for far northern latitudes, especially above 55 degrees of latitude,
+where all house systems begin to break down due to the curvature of the earth.  Remember, at
+the North Pole the Sun is actually below the horizon for six months!  This renders all other house
+systems irrelevant at such extreme latitudes, other than equal house.  However, it is important to
+remember that western astrology was developed mainly in temperate zone regions and some
+northern tropic areas of latitude, in other words in those areas of terrestrial latitude where most
+people live.  Thus these house systems evolved in accordance with human life in the most
+populated and livable regions of our planet.
+This simple diagram shows the main points of reference upon which house systems are based.
+9
+This diagram offers another view of the Midheaven and Ascendant, showing also the (IC) or 4th
+House Cusp, which corresponds to the Sun’s position at true midnight.  Note how the Midheaven
+is at an angle that tilts to the south; in northern latitudes the Sun is always to the south of us.  The
+angle of the Midheaven in this diagram would be for a northern latitude of around 40 degrees
+north.  Also notice that the Zenith and the Midheaven are ‘not’ the same point.  The only time
+they can be is on the Earth’s equator at noon on Solstice, when the Sun is directly overhead.
+Likewise the Nadir is not the same point as the IC or 4th House cusp.  MC is an abbreviation for
+Medium Coeli, Latin for mid-day, and IC is an abbreviation for Imum Coeli “the lowest heaven” or
+midnight.
+A slanted perspective on the 12 houses, showing the eastern horizon and western horizon orientation
+10
+SID TIME   Midheaven
+SID TIME    Midheaven
+11th House  12th       ASCN      2nd           3rd       Northern Latitude 0 – 60 degrees
+A page from The Birthplace Tables of Houses by Walter A. Koch, showing the Midheaven, 11th House Cusp, 12th House
+Cusp, Ascendant, 2nd House Cusp, and 3rd House cusp.  Only 6 house cusps are listed total, the other 6 would be
+exactly opposite, thus only 6 cusps are necessary to list.  The red line is inserted and underlines the house cusps for
+40N00 latitude, for an MC of 4 degrees Taurus, 11th 16 Gemini, 12th 16 Cancer, ASCN 13 Leo 51, 2nd house 10 Virgo,
+and 3rd house 7 Libra.  You will learn how to use your Tables of Houses to calculate the houses for any chart.
+11
+How to Calculate a Chart
+Calculating the Houses:
+Tools:
+1. Ephemeris
+2. Tables of Houses
+3. Calculator (simple hand held calculator)
+4. Access to online atlas or atlas to obtain latitude and longitude
+Information:
+1. Month, day, and year of birth
+2. Hour and minute of birth
+3. Place of birth: city, (province – when known) and country in order to obtain
+the latitude and longitude at birth.  Make sure you get both the degrees and
+minutes of latitude and longitude, for example:
+Beijing’s latitude is: 39◦N 55’ (39 degrees North 55 minutes)
+Beijing’s longitude is: 116◦E 25’ (116 degrees East 25 minutes)
+Sometimes latitude and longitude will be represented by a decimal, for
+example: 39◦N 55’ latitude could be written 39.916666 degrees North, or
+116◦E 25’ could be written 116.416666 degrees East.
+For the purpose of chart calculation it is best to use both degrees and minutes
+in order to follow the structure of the formula more readily.  If you need to
+convert the decimal to minutes simply multiply the decimal by 60 to obtain
+the minutes, the same is true if your online atlas lists the seconds of latitude
+and longitude as well.  Round off the seconds, you’ll only need the degrees
+and minutes of longitude and latitude.
+12
+Step 1: Calculating Local Mean Time
+Local Mean Time (LMT), sometimes called True Local Time (TLT), is a ‘mean’
+approximation of sundial time, used locally for thousands of years.  Prior to 1883 time was
+a local matter.  Even with the advent of mechanical clocks during the Renaissance in
+Europe, every village and town had a clock tower in the center of town that showed the
+time for that place.  The clock time in villages only ninety miles apart would be different,
+just as the shadows of an accurate sundial would vary slightly from place to place.
+The increased speed of railway transportation and even maritime shipping necessitated
+reliance upon a more uniform or standardized way of measuring time.  Changing the time
+on watches aboard a train as it passed through every town and hamlet, and the resulting
+clutter of scheduled arrival and departure times brought about the use of a uniform time
+called Railway Time.  Railway Time was applied to regions divided by lines of longitude on a
+map.  These regions were sectioned into areas called time zones.  Reliance upon Railway
+Time would result in the World Time Zone convention that met in Greenwich, England and
+agreed on Nov. 18, 1883 to set the boundaries of time zones internationally around the
+globe.  A time zone was established for each 15 degrees of longitude from 0 degrees of
+longitude.  Any zone east of 0 degrees would be a + zone and any time zone west of 0
+degrees would be a – zone.  Each time zone would be defined by what is called the
+Standard Meridian.  The Standard Meridian is the line of longitude along which the time
+observed coincide exactly with Local Mean Time.  For example, the Standard Meridian for
+Beijing Time or Zone + 8 is 120◦E 00.’ You can always find the Standard Meridian for any
+time zone by multiplying the zone number by 15.
+Zone + 8 X 15 = 120 degrees.  All time zones are 15 degrees of longitude apart.  This is
+because the Sun appears to traverse 1 hour or 60 minutes of time for every 15 degrees of
+longitude, (Of course it is the earth’s rotation we’re actually measuring.)  This ratio of 15
+degrees of longitude = 1 hour can be reduced further:
+15 degrees of longitude  = 1 hour or 60 minutes of time
+60 minutes ÷ 15 degrees of longitude = 4 minutes of time
+Thus, 1 degree of longitude = 4 minutes of time
+This ratio of 1 degree of longitude corresponding to 4 minutes of time is very important!
+We will use this equivalency when using longitude to covert from Standard Time back to
+Local Mean Time in order to establish the time closest to the actual sundial time of the
+locale of the chart in question.  This correspondence can be further reduced to 4 seconds
+of time being = to 1 minute of longitude.
+First study these maps of Standard Time Zones around the globe as they are today.
+13
+Note that “all of China is in Zone + 8,” which became the Time Zone for all of China beginning
+September 29, 1949, though two provinces did not comply uniformly until 1952.
+14
+Prior to September 29, 1949 China was divided into internationally recognized Time Zones.
+China also experimented with Daylight Savings Time between 1986 – 1991; though since then China has
+remained on Beijing Time or + Zone 8, also called Zone 8 East.  Nodoor.com is presently conducting more
+detailed research into all Time Zone and time changes in China historically and in modern times.
+1). For the purposes of Chart Calculation, you must first convert Standard Time into Local Mean Time.
+Let’s calculate the birth chart for Tian Cheng, born February 12, 1978 at 12:05 in Beijing, China.
+Beijing, China: Longitude 116 degrees East 25 minutes, Latitude 39 degrees North 55 minutes
+A) Find the difference between the birth longitude and the Standard Meridian.
+The Standard Meridian for Zone + 8 is 120 degrees East 00 minutes
+Subtract the longitude of birthplace: - 116 degrees East 25 minutes
+3 degrees         35 minutes
+X 4 minutes        X 4 seconds
+12 minutes        140 seconds (convert) =
+ANSWER:        14 minutes          20 seconds
+15
+B) Subtract the difference between the Standard Meridian and the birth longitude from the
+standard time of birth:
+Hours
+Minutes          Seconds
+Standard Time of Birth:
+12
+05
+00
+-   0
+14
+20
+11
+50
+40
+LMT
+(LMT) Local Mean Time is: 11:50:40
+Beijing Time is 14 minutes and 20 seconds ahead of
+True Local Time or Local Mean Time (sundial time)
+C) Open your Ephemeris and select the Sid Time (Sidereal Time) for midnight previous to birth.
+For Tian Cheng, born at 12:05 on February 12, 1978 the Sid Time for midnight previous to
+birth will correspond to the Sid Time listed in your Ephemeris for Feb. 12.
+Sidereal Time: 09:26:45  You will use this Sid Time in the formula below.
+D) Now you will need to convert the Local Mean Time of birth to the exact Sidereal Time at
+birth.  This is the formula for converting LMT into Sidereal Time at birth.
+Hours
+Minutes
+Seconds
+Sidereal Time of birth at midnight
+09
+26
+45
+(+)
+Local Mean Time
+11
+50
+40
+(+)
+Accelerated Interval Correction of
+9.86 seconds X the number of hours
+in the interval between midnight and LMT:
+11 hours X 9.86  seconds = 108.46
+50 minutes ÷ 60 = .8333 X 9.86 seconds =
+8. 216 + 108.46 = 116.67 seconds =
+1 minute 57 seconds
+01
+57
+subtotal
+21
+19
+22
+Because the birth longitude is West of the
+Standard Meridian you subtract from the
+birth time to arrive at find the Local Mean
+time.  If the birth longitude was East of the
+Standard Meridian you would add to the
+birth time to arrive at the Local Mean Time.
+16
+If the birth longitude is Eastern you
+must multiply 2 seconds X the number
+of 3 degrees from 0 degrees Longitude at
+birth and subtract from the subtotal:
+116E ÷ 3 = 38.66666 X 2 seconds = 77.333
+77.333 seconds or 1 minute and 17 seconds: (-)
+01
+17
+Calculated Sidereal Time at Birth
+21
+18
+05
+Calculated Sid Time of Birth 21:18:05
+Once you’ve calculated the Sidereal Time at Birth go to your Koch Tables of Houses and select the
+Sidereal Time closest to the Calculated Sidereal Time of Birth.  The closest Sidereal Time listed in
+your Koch Tables of Houses is: Sid. Time 21:17:49  (Sid. Times are always at the top left side.)
+Listed under the Sid Time of 21:17:49 next to M (Midheaven) is 17 degrees Aquarius, thus the
+Midheaven at birth will be closest to 17 degrees of Aquarius.  (Note that the Midheaven that
+follows next is 18 degrees of Aquarius, the Midheavens are separated by one degree.)
+To locate the closest House Cusps, including the Ascendant you must count down the center
+column on the page under M 17
+.  This middle column corresponds to latitude.  The latitude for
+Beijing is 39N55, so the closest latitude will be 40N will give you the following house cusps:
+XI (11th House) 27Pisces34, XII (12th House) 8Taurus55, A (Ascendant) 10 Gemini 57,
+II (2nd House) 5Cancer36, III (3rd House) 26Cancer52
+The opposite house cusps, 4th, 5th,  6th, 7th , 8th and 9th are all exactly opposite and can be placed on
+the chart wheel accordingly.
+Notice that the Calculated Sid Time of Birth falls between the closest Side Time in the Tables of
+Houses and the following Sid Time of 21:21:46 for Midheaven of 18 Aquarius.  This tells you that
+the ‘exact’ position of the Midheaven falls between 17 Aquarius and 18 Aquarius, though much
+closer to 17 Aquarius.  The same is true for the other house cusps at 40N latitude.
+In order to calculate the exact Midheaven and House positions to the minute you must interpolate.
+Interpolating the Midheaven
+17
+Interpolation involves finding a point that exists between two other points.
+21:17:49  M 17
+21:21:46   M 18
+A 10
+10
+39 N
+A 11
+14
+A 10
+57
+40N
+A 12
+01
+1. First interpolate for the Midheaven:
+A. Find the difference between the following Sid Time and the previous Sid Time.
+H.  M.  S.
+Following Sid Time
+21:21:46
+Previous Sid Time  (-)
+21:17:49
+3:57 or 237 seconds
+B. Find the difference between the calculated Sid Time and the previous Sid Time.
+H.  M.  S.
+Calculated Sid Time
+21:18:05
+Previous Sid Time  (-)
+21:17:49
+:16 seconds
+C. Divide 16 seconds by 237 seconds to find the ‘constant decimal’ or multiplier.
+16 ÷ 237 = .06751
+D. Find the difference between the following M and the previous M.
+(In your Koch Tables of Houses this will always be 1 degree or 60 minutes)  Multiply the
+decimal multiplier from Step C. X 60 minutes.
+60 minutes X .06751 = 4.05 minutes
+E. Add this amount to the previous Midheaven
+M 17
++ 4 minutes = M 17
+04  <This is the exact interpolated Midheaven
+Now you must interpolate the Ascendant.
+Interpolating the Ascendant
+To interpolate the Ascendant you must also interpolate for latitude, unless the birth latitude is
+exactly the degree and zero minutes listed in the latitude column.
+18
+First Find the difference between the Ascendants:
+A 10
+10
+39 N
+A 11
+14
+A 10
+57
+40N
+A 12
+01
+47 minutes
+47 minutes
+Interpolating for latitude
+1. 40N00 – 39N00 = 1 degree or 60 minutes
+2. 39N00 – 39N55 = 55 minutes
+3. 55 minutes ÷ 60 minutes = .91666
+4. Multiply .91666 X 47 minutes = 43.08 minutes (multiply both columns when different)
+5. Add this to the previous Ascendant
+10
+10 + 43 minutes = 10
+53 minutes in the previous column
+6. Add this to the following Ascendant
+11
+14 + 43 minutes = 11
+57 minutes in the following column
+7. Subtract the previous Ascendant from the following Ascendant
+10
+53 – 11
+57 = 1 degree 04 minutes or 64 minutes
+8. Multiply 64 minutes X the constant decimal .06751 = 04.32 minutes
+9. Add this amount to the previous Ascendant interpolated for latitude
+10
+53 + 4 minutes = 10
+57 <Exact Interpolated Ascendant within 1 minute of arc
+THIS PROCEDURE FOR THE ASCENDANT IS THE SAME FOR ALL THE INTERMEDIATE HOUSE CUSPS.
+CALCULATING THE PLANETS
+To calculate the exact positions of the planets at birth or for any given event you must first convert
+the Standard Time given to Universal Time.  Universal Time (UT) is for all practical purposes the
+same as GMT, except that it is expressed in 24 hour time, i.e. 00:00 to 24:00.  All positions listed in
+The American Ephemeris are set for UT at midnight 00:00 unless otherwise indicated.
+Calculating UT at birth:
+1. List the birth time: 12:05:00 Zone +8
+2. To find the UT at birth you must find the difference between the Time Zone in use and UT.
+19
+Zone 8 East, or Zone + 8, is 8 hours ahead of UT.  Thus you must subtract 8 hours from the
+Standard Time of Birth:
+12:05:00
+Correction for UT
+(-)
+08:00:00
+UT at birth
+04:05:00
+3. Because all positions listed in The American Ephemeris are listed in 24 hour intervals from
+one midnight until the next, you must find the ‘constant decimal’ that corresponds to the
+UT at the time of birth.
+a) First convert the minutes of the UT into a decimal of degrees.
+UT at Birth 4 hours 5 minutes
+5 minutes ÷ 60 = .083333
+UT at Birth 4.083333 hours
+b) Next divide the UT at Birth by 24 hours to obtain the constant decimal.
+4.083333 ÷ 24 = .1701388 <constant decimal
+4.  Find the 24 hour interval listed in your ephemeris for the day in question.
+February 12, 1978 at 4.083333 hours is your UT.  The 24 hour interval is between February
+12 and February 13.
+Reading from the Ephemeris below find the 24 hour rate of motion of the Sun, Moon and planets.  To do
+this you must find the difference between the 13th and the 12th of February; note that Mars, Jupiter, Saturn
+and Pluto are Retrograde.  Remember there are 30 degrees to a sign, 60 minutes to a degree, and 60
+seconds to a minute.
+Sun            Moon
+Mercury      Venus     Mars    Jupiter   Saturn   Uranus  Neptune  Pluto
+Rate of motion>    60 ‘ 41”     12d  46’ 41”
+98.8’            75.2’        14’         1.5’        4.9’          .4’           1.2’          .8’
+(Note that the decimals listed for the planets are decimals of minutes NOT seconds. )
+5. Next multiply the constant decimal X the 24 hour rate of motion of the Sun, Moon and
+Planets.
+20
+A. Start first with the Sun.
+Sun’s 24 hour rate of motion 60 minutes 41 seconds; convert seconds to minutes:
+41 ÷ 60 = .683333   Thus Sun’s rate of motion is 60.683333 minutes
+Multiply the Sun’s rate of motion X the constant decimal: .1701388
+60.683333 minutes X .1701388 = 10.324589 minutes or 10 minutes 19.47 seconds
+Add this increment from the constant decimal to the previous position of the Sun, in this
+case, February 12.
+Sun
+February 12   22
+54’  59”
+(+)      0      10’  19”
+23
+05’ 18” < Exact position of the Sun
+23 degrees Aquarius 5 minutes 18 seconds
+6.  The Moon
+Moon’s 24 hour rate of motion 12 degrees 46 minutes 41 seconds; convert seconds to
+minutes and minutes to degree decimal: 41 seconds ÷ 60 = .683333 minutes, 46.683333
+minutes ÷ 60 = .7780, thus the Moon’s 24 hour rate of motion is 12.7780 degrees.
+Multiply the Moon’s rate of motion X the constant decimal .1701388
+12.7780 degrees X .1701388 = 2.1740335 degrees or 2 degrees 10 minutes 27 seconds
+Add this increment from the constant decimal to the previous position of the Moon:
+Moon
+February 12     19
+24’  39”
+(+)       2       10’  27”
+21
+35’  06”  <Exact position of the Moon
+21
+The planets are calculated the same way:
+Mercury’s 24 hour rate of motion is 98.8’ X .1701388 = 16.81 minutes
+Mercury
+February 12
+11
+40.3’
+(+)
+16.8’
+11
+57.1’ <Exact position of Mercury
+Venus’ 24 hour rate of motion is 75.2’ X .1701388 = 12.79 minutes or 12.8’
+Venus
+February 12
+27
+54.3
+(+)
+12.8
+28
+07.1 <Exact position of Venus
+Mars’ 24 hour rate of motion is 14’ X .1701388 = 2.38’ or 2.4’
+Mars
+February 12
+24
+27.7’
+(-)
+2.4’      Because Mars is
+you must subtract from the previous midnight.
+24
+25.3
+The planets Jupiter, Saturn, Uranus, Neptune, and Pluto – plus the North Node, move so
+slowly you can generally calculate their positions in your head with the help of a
+calculator.
+26
+11’
+17
+57’
+27
+27’
+16
+32’
+16
+23’
+6
+42’
+22
+Further Calculation Considerations:
+1). When calculating Sidereal Time for a birthplace with Western Longitude you must add the
+fourth step instead of subtracting it from your sidereal time formula.  The fourth step is the step
+that corrects 2 seconds X each 3 degrees of Longitude from 0 degrees Longitude.
+If the birth Longitude was 120W00, you would ÷ 120 by 3 = 40 X 2 seconds = 80 seconds, or 1
+minute and 20 seconds.  You would then ADD this amount as the fourth and final step to your
+sidereal time formula for your Calculated Sidereal Time at birth.
+This correction of 2 seconds for each 3 degrees of Longitude, corrects for the ‘actual time of the
+earth’s rotation’ when compared to the artificially imposed measurement of Longitude.  Nature,
+nor our solar system, fits ‘exactly’ the lines we impose as measurements.  Likewise the Earth is not
+a perfect sphere.  The formula of 4 minutes of time for each degree of longitude is a good formula
+for measurement except that for every 3 degrees of Longitude we lose 2 seconds of time.
+2.) When calculating Sidereal Time for a birthplace with Southern Latitude the MC or M remains
+the same as for Northern Latitude.  However to find the correct Ascendant and house cusps you
+must follow these 3 steps:
+1. Find the opposition point of the MC:
+2. Refer to your Tables of Houses for Northern Latitude to find the corresponding Ascendant for
+this opposite MC.
+3. Now, once again, take the opposition point, to this Ascendant and that will be your Ascendant
+at Southern Latitudes, and the same for all of the other house cusps listed in your Tables of Houses.
+Example:
+Suppose the calculated MC was 17 degrees Libra 00’
+The opposition point would be 17 degrees Aries 00’
+Look up 17 degrees Aries in your Tables of Houses for the corresponding Ascendant in the latitude
+column.  For latitude of 24 degrees this would be 23 degrees Cancer 49.’
+The opposition point for 23 degrees Cancer 49’ is 23 degrees Capricorn 49.’
+So your Ascendant for 24S00’ latitude for a MC of 17 degrees Libra is 23 deg. Capricorn 49.’
+23
+Daylight Savings Time
+Whenever Daylight Savings Time is in effect it will add one additional step to your calculation of
+Local Mean Time, and make a one hour difference in your calculation of Universal Time (UT).
+1. When calculating LMT for daylight savings time you must subtract one hour first from the
+standard time of birth.
+If the person was born at 14:37 Beijing Daylight Savings Time, that means the clock had
+been moved forward one hour, thus to change it back to standard Beijing Time you would
+subtract one hour and your standard Beijing Time would be 13:37.
+2. When calculating UT for daylight savings time you must realize that for Beijing time you are
+now 9 hours ahead rather than 8 hours ahead.  If a person was born at 8:00 Beijing
+Daylight Savings Time on July 1.  This would be 23:00 UT June 30.
+Your homework assignment is to calculate the following four natal charts:
+Li Fong, born June 12, 1993 at 15:30 in Shanghai, China 31N14 121E28, and,
+Han Ping, born October 2, 1980 at 7:45 in Beijing, China 39N55 116E25.
+Lisa Collins, born: Jan 9, 1965 at 7:42 a.m. EST or Zone (-) 5, or Zone 5West in Atlanta, Georgia,
+USA, latitude 33N45, longitude 84W23
+Steve McFarland, born March 23, 1987 at 9:50 p.m. (21:50) Zone (-) 12, or Zone 12East, in
+Auckland, New Zealand, latitude 36S52, longitude 174E46

@@ -1,0 +1,604 @@
+2016 Nodoor Core Course Level Five Lesson 23  1/20
+2016 Nodoor Core Course  Level Five
+Lesson 23  Glossary  Terms for ISAR Competency Exam
+© www.nodoor.com
+1. The Gregorian Calendar – This is the western calendar in use today in much of
+the world that begins at 00:00 hours January 1.  It is named for Pope Gregory XIII,
+who gathered many learned men for 5 years to make this calendar, launched in
+1582.
+2. Local Mean Time – Average or “mean” time at even given location on the earth
+based upon the movement of the Sun relative the meridian of that locale; an
+average of the Sun’s movement – similar to a Sundial.  Used worldwide prior to
+November 18, 1883.
+3. Greenwich Mean Time – The time at 0 degrees longitude West, called
+Greenwich due to the map designs that put 0 degrees running through the
+Greenwich Observatory in Greenwich, England.  It is abbreviated as GMT and is
+the equivalent of UT or Universal Time.
+4. Logarithms in Calculations – Tables devised for trigonometry, allowing for the
+simple use of addition and subtraction rather than multiplication and division
+when calculating the movement or arc of direction of any moving body, such as a
+planet.
+5. Hellenistic Astrology – The astrology prevalent in the Classical World following
+the conquests of Alexander the Great, i.e. during the Hellenistic Period of history
+after 323 BC.  Hellenistic astrology represents the beginning of Western Astrology
+in terms of form and basic principles. However Hellenistic astrology did not
+emerge as a recognizable system of horoscopic astrology until the 1st century BC
+though it was practiced until approximately the 7th Century AD.  Readers can
+explore Chris Brennan’s website on Hellenistic Astrology:
+http://www.hellenisticastrology.com/
+2016 Nodoor Core Course Level Five Lesson 23  2/20
+6. Planet out-of-bounds – When the Moon or any planet is in a declination
+outside of or beyond the line of 23 degrees North 27 minutes declination or 23
+degrees South 27 minutes declination it is considered “out of bounds” as it is
+outside of the maximum Solar Declination reached at either
+Solstice.http://www.forrestastrology.com/general-astrology/the-out-of-bounds-
+moon
+7. Apogee & Perigee – Apogee means farthest away in orbit from the Earth;
+Perigee means closest in orbit to the Earth.
+8. Adjusted Calculation Date – This is the Date that allows you to know “when”
+the positions listed in your Ephemeris are “exact” when calculating Secondary
+Progressions.  Abbreviated as the ACD, here is the formula:
+To determine the precisepositions of the secondary progressions you have to find what is called the ACD, or
+Adjusted Calculated Date.
+To find the ACD you must know the GMT or UT of the person in question.  For our example, let’s use the birth
+chart of Brad Pitt, born December 18, 1963 at 6:31am in Shawnee, Oklahoma, USA.
+1). Brad’s birth time is 6:31am CST (Zone 6 West), thus his GMT or UT is 12:31pm
+2). Find the number of hours from the UT or GMT to the following midnight.  The number of hours to the
+following midnight is 11hours and 29minutes.
+3). Whatever the number of hours, add this to the Sidereal Time listed in your Ephemeris at midnight on the
+date of birth.
+Use a midnight Ephemeris. (All of you have a Midnight Ephemeris)
+December 18, 1963, Sid. Time:
+05:43:33
++
+11:29:00
+17:12:33
+4). Using your Ephemeris for the year 1963 count forward if the GMT or UT is PM, or backwards if the GMT or UT
+is AM, and find the date in your Ephemeris that is closest to the Sid: Time of 17:12:33.  You will find that this
+date is June 10.
+5). June 10 is your ACD or Adjusted Calculated Date.  This means that all of the positions listed in your Ephemeris
+for 1963 will correspond to June 10 of the year in question.
+6). For example, if you count in your Ephemeris from December 18, 1963 to December 19, 1963, then the
+positions listed in the Ephemeris for December 19, 1963 correspond to the actual date of June 10, 1964.
+9. Vertex – The intersection of the Prime Vertical with the Ecliptic in the West.
+2016 Nodoor Core Course Level Five Lesson 23  3/20
+10. Signs of Short and Long Ascension – Signs of the Zodiac that rise or ascend
+faster or slower on the Ascendant depending upon the latitude of the place. Virgo
+and Libra are signs of long ascension in Northern Latitudes, while Pisces and Aries
+are signs of short ascension in Northern Latitudes.  The reverse is true for
+Southern Latitudes.
+11. Declination – A measurement north or south of the Celestial Equator.
+12. Planetary Patterns– Specifically refers to pattern formations in a natal chart
+(excluding the Lunar Nodes, Chiron, Ceres, Eris and the asteroids) that was
+invented by the astrologer Marc Edmond Jones.  These planetary patterns are:
+See Saw – planets on opposite sides of chart, with vacant areas of 60 to 90
+degrees.
+Bowl – all planets within 180 degrees, leaving the other half empty.
+Bucket – all planets with 180 degrees except “one” planet (singleton planet).
+Splash – planets scattered around the wheel with no significant gaps.
+Bundle – all planets concentrated within 120 degrees.
+Locomotive – all planets within 240 degrees, the remaining 120 is empty.
+Splay – distinct or sharp groupings of planets irregularly placed in the wheel.
+2016 Nodoor Core Course Level Five Lesson 23  4/20
+
+Seesaw : In this pattern the planets form two groups on opposite sides of the chart, the groups
+no less than sixty degrees or two signs apart. As its name suggests, this produces a person who
+behaves like a 'seesaw', with their life following a pattern of two distinctly contrasting
+alternatives. The person can find it difficult to integrate these two sharply different parts of their
+life, which are often in competition with each other. However, success produces the increased
+sophistication and polished, knowing demeanor of a person who is able to deal with most of
+life's situations.
+
+Bowl : In this pattern the planets are grouped into a 'bowl' of one hemisphere of 180 degrees,
+or the equivalent of six zodiac signs. The pattern will have particular force if all the planets are
+contained within one hemisphere. A person with this pattern will be self-contained, and go in
+search of enterprises that are meaningful, fulfilling and personally relevant. They tend to have a
+ministerial quality that seeks the right kind of career or vocation that will produce the greatest
+benefit for themselves and others.
+
+Bucket : This pattern is similar to the bowl except that one of the planets is in the opposite
+hemisphere to all the others. This lone planet, or Singleton, serves as a handle, thus creating a
+'bucket' form. In the bucket pattern is indicated a desire to become associated with activity in
+the mainstream of society, so that the person feels they belong. However, what this often
+means is that the person expects the world to discover their own unique talents, rather than
+them trying to fit in. They will usually direct their efforts to a single purpose, and strive to
+achieve objectives rather than act solely for their own self-preservation. The person will
+probably behave according to the nature of the Singleton planet that forms the handle of the
+pattern. This planet will exercise a greater influence than normal in the chart, and will be an
+important part of the dynamic of the person's activities and basic energy.
+
+Splash : As its name suggests this pattern, or rather lack of pattern, occurs when the planets are
+randomly distributed around the chart in a 'splash'. A person with this pattern will have
+diversification as their number one asset, with a universal and enriching mental outlook on life.
+The person will be eager to share their life and resources as universally as possible, wherever
+the need is greatest. However, as with the splay pattern, there is a danger of the person
+scattering their energy unproductively.
+
+Bundle : In this pattern the planets are grouped together so that they form a 'bundle' within the
+space of 120 degrees, or the equivalent of four signs of the zodiac. This intense concentration of
+planets produces a person who is equally intense and unrelenting in pursuit of personal
+interests. Perspective and understanding of others is limited, and it is difficult for this person to
+share their lives with anyone. The best course of life for such a person is to enter into
+enterprises that require deep concentration, persistence and commitment, or to specialize in
+one area of expertise.
+
+Locomotive : This pattern is produced when all the planets are contained within 240 degrees or
+nine signs of the zodiac, so that a whole 120 degrees is completely unoccupied. The planet that
+rises clockwise following the empty space will significantly influence the life of the person with
+this pattern, no matter what is indicated by the sun sign. It will act as the 'locomotive' of the
+natal chart, driving the individual to achieve goals through determined and unrelenting effort,
+with an exceptional drive and fund of energy at their disposal. Such a person will often be a
+loner, waiting for the public to discover the truth of what they have been saying all along.
+
+Splay : This type of natal chart is noteworthy because of the presence of at least two, but usually
+three pairs (or conjunctions) of planets randomly distributed in a 'splay' shape around the chart.
+A person with this pattern will have enormous talent and potential that needs deliberate
+attention to be developed into worthwhile skills. The person will be an individualist, with no
+desire for a regimented or highly organized way of life, and they will seek to avoid becoming
+trapped in routine. However, there is often the difficulty that there is a lack of relevance
+2016 Nodoor Core Course Level Five Lesson 23  5/20
+between the different skill sets, so that the person may not derive the full benefit from them.
+Such a person needs to concentrate on 'getting their act together'.
+13. Sidereal Time – Sometimes called ‘star time,’ it is a system of measuring the
+amount of time that has elapsed between the exact alignment with a particular
+star at any point on the globe and when that some point will again align exactly
+again.  This is due to the Earth’s rotation on its axis and the elapsed time will
+depend upon the latitude position on the globe.
+14. Ascending & Descending Signs– The zodiac sign rising in the east at the point
+of sunrise is said to be “ascending” and the zodiac sign setting in the west at the
+point of sunset is said to be “descending.”  These signs will always be exactly
+opposite each other, and are abbreviated as ASC and DSC.
+15. Fruitful Signs – The water signs: Cancer, Scorpio and Pisces are called fruitful.
+16. Zenith – The point directly overhead, opposite the Nadir – or the point
+directly below. (Not to be confused with the MC or Mid-heaven!)
+17. Planetary Cycles – All planets have cycles, or the length of time it takes a
+planet to cycle through the zodiac, such as 84 years for Uranus or 248 years for
+Pluto.  Planetary cycles can also be measured from one conjunction to the next
+with each other.  For example, the Sun and Mars last made a conjunction on
+January 31, 2011 at 11 degrees of Aquarius; the next conjunction between the
+Sun and Mars is on April 18, 2013 at 28 degrees of Aries.  Thus the Sun – Mars
+cycle lasts 2 years and 2.6 months.  The opposition between the Sun and Mars
+always occurs during the Retrograde of Mars, this time March 4, 2012 at 13
+degrees of Pisces and Virgo.  You can think of this opposition as being the
+beginning of the full phase, like the full Moon, of this Sun – Mars cycle.
+18. Planetary Ingresses– The exact moment that the Sun, Moon or planet enters
+a sign of the zodiac.
+19. Parallel of Declination–Moon, Sun, or planet sharing the same degree of
+Declination  when both are north or south, with an orb of no more than 1 degree.
+20. Contra-Parallel of Declination– Moon, Sun, or planet opposite in declination.
+21. Meaning of Retrogrades – In a natal chart a retrograde implies a tendency for
+the energy or expression of the planet involved to be more internalized and less
+2016 Nodoor Core Course Level Five Lesson 23  6/20
+externalized in expression, especially when the planets Mercury, Venus or Mars
+are retrograde in a natal chart.
+22. Periods of Planetary Retrogrades - By transit, a retrograde planet shows a
+concentrated area of energy or emphasis that one must deal with for an extended
+period of time, often repeating or going back over an area of concern or of similar
+issues.  Mars retrogrades the least of the planets that retrograde, just once nearly
+every 2 years.  The outer planets Uranus, Neptune and Pluto are retrograde
+nearly half the time.
+23.  Major and Minor Aspects
+The major aspects are:
+0⁰
+conjunction
+60 ⁰
+sextile
+90⁰
+square
+120⁰
+trine
+180⁰
+opposition
+The minor aspects are:
+30⁰semi-sextile
+45°semi-square
+quintile72°
+135°sesquiquadrate
+144° biquintile
+150⁰ quincunx
+Other minor aspects are simply further divisions of 360 degrees with associate categories of
+aspects. These are rarely used:
+Septile 51.428571°, or approximately 51°25'43, or 360 ÷ 7
+Biseptile 102.857143 ° or approximately 102°51'26”
+Triseptile 154.285714° or approximately 154°17'09"
+Novile 40° 360 ÷ 9 = 40⁰
+Binovile 80°
+Quadnovile, also known as a quadrinovile, is an angle of 160°
+Decile 36⁰ 360 ÷10 = 36⁰, tridecile 108⁰, vigintile 18⁰
+There are other minor aspects but almost any division of 360 can be an aspect.
+2016 Nodoor Core Course Level Five Lesson 23  7/20
+24. Calculated Sidereal Time – The exact Sidereal Time at birth, converted from
+Local Mean Time, which was originally Standard Time.
+25. Occultation – From the work “occult” meaning “hidden,” occultation
+specifically refers to the phenomena of when the Moon occults or hides a planet.
+26. Moon Void of Course – the position of the Moon following the last Ptolemaic
+aspect it makes in a zodiac sign before entering the next zodiac sign.
+27. Dispositors – The planet associated with the sign of any planet or of the sun
+and moon, i.e. the Sun in Aries is disposited by Mars.  A “final dispositor” would
+be a planet in its own sign.  If Mars was in Sagittarius and Jupiter was in
+Sagittarius, then Jupiter would be the final dispositor.
+28. Peregrine - Foreign, alien. Said of a planet posited in a sign where it possesses
+no essential dignity: where it is neither dignified nor debilitated. It is employed in
+Horary Astrology, where it is usually reckoned as a debility. In a question of a
+theft, a peregrine planet in an angle or in the 2nd House is the thief. However, no
+planet is reckoned peregrine if it be in mutual reception with another.
+29. Negative & Positive Signs, Negative & Positive Signs – Earth and Water signs
+are negative, while Fire and Air signs are positive.
+30. Morning and Evening Stars – said of a planet, usually Venus, though
+occasionally Mercury, when rising ahead of the Sun prior to sunrise it is a Morning
+Star and when visible in the west following sunset it is an Evening Star.
+31. Major Planetary Conjunctions – Usually involve planet conjunctions from
+Jupiter on out, such as the famed 20 year conjunctions cycle of Jupiter and Saturn.
+32. Antiscion – Sometimes called the Solstice Point or antiscia. It refers to the
+point in Declination where any degree of the “natural zodiac” is parallel in
+declination.  The Antiscion or solstice point of any degree can be found with the
+following formula:
+To find the Antiscion Point or Solstice Point of the Sun in your chart, for example,
+you would subtract the degrees in longitude of the Sun from 30 degrees and
+finding the corresponding sign from this list:
+2016 Nodoor Core Course Level Five Lesson 23  8/20
+Gemini-Cancer
+Leo-Taurus
+Virgo-Aries
+Libra-Pisces
+Scorpio-Aquarius
+Sagittarius-Capricorn
+If your Sun's position is 25 degrees Virgo 21 minutes, you would find the Antiscia
+of your Sun by subtracting 25 degrees 21 minutes from 30 degrees (or 29 degrees
+60 minutes) to arrive at 4 degrees 39 minutes. From the list above, you see that
+the Antiscia of the sign Virgo is always Aries. Therefore the antiscia of your Sun is
+4 degrees Aries 39 minutes.
+If your Moon's natal position is 28 Pisces 25, you would find the Antiscion point by
+subtract this degree from 30 degrees, to arrive at 1 degree 35. The Antiscia of the
+sign Pisces is always Libra, so your antiscia of your Moon is 1 Libra 35.
+33. Phases of the Moon – a division of the Moon’s cycle into 4, 8 or 12 phases.
+34. Moon Speed Variation – the Moon’s movement through the zodiac varies
+between 11 and 15 degrees per day, with the average around 13.2 degrees in a 24
+hour period.
+35. Critical Degrees - Classic critical degrees: are 0, 13, and 26 degrees of the
+cardinal signs (Aries, Cancer, Libra, and Capricorn); 8-9 and 21-22 degrees of fixed
+signs (Taurus, Leo, Scorpio, and Aquarius); and 4 and 17 degrees of mutable signs
+(Gemini, Virgo, Sagittarius, and Pisces). These are considered sensitive, and
+sometimes strengthening, points. If a natal planet is found in a critical degree,
+that planet is emphasized and assumes more power in the life of the native due to
+its placement.  (I have found no correlation with these critical degrees.DR)
+Some astrologers also consider 0 and 29 degrees of any sign critical degrees as
+well. The 0 and 29 degrees are more crisis-oriented points, especially in predictive
+work. If a natal planet is found at 29 degrees of any sign this is also known as the
+Anaretic degree.(“I have found no correlation with either 0 or 29 degrees of any
+sign.” DR)
+36. House Cusp Systems – There are many house cusp systems, or House Systems;
+the main house systems simply employ a mathematical debate regarding how to
+trisect the diurnal arc, i.e. the arc between the ASC and the MC.
+2016 Nodoor Core Course Level Five Lesson 23  9/20
+Main House Systems:
+Placidus This is the most commonly used house system in modern Western astrology. The paths drawn for each
+degree of the ecliptic to move from the nadir to the horizon, and from the horizon to the Midheaven are trisected
+to determine the cusps of houses 2, 3, 11, and 12.
+Koch A rather more complicated version of the Placidus system, built on equal increments of Right Ascension for
+each quadrant. The Koch system was developed by the German astrologer Walter Koch (1895–1970) and is defined
+only for latitudes between 66°N and 66°S. This system is popular among research astrologers in the U.S. and
+among German speakers.
+Equal House the houses are measured out in 30 degree increments starting from the degree of the ascendant
+Whole Sign the houses are 30° each. The ascendant designates the rising sign, and the first house begins at zero
+degrees of the zodiac sign in which the ascendant falls, regardless of how early or late in that sign the ascendant is.
+Campanus The prime vertical (the great circle taking in the zenith and east point on the horizon) is divided into
+twelve and these divisions are projected on to the ecliptic along great circles that take in the north and south
+points on the horizon. It is attributed to Campanus of Novara but the method is known to have been used before
+his time.
+Porphyry Each quadrant of the ecliptic is divided into three equal parts between the four angles. This is the
+oldest system of quadrant style house division. Although it is attributed to Porphyry of Tyros, this system was first
+described by the 2nd century astrologer Vettius Valens, in the 3rd book of his astrological compendium known as
+The Anthology.
+Alchabitius The predecessor system to Placidus which largely replaced the Porphyry, the difference with
+Placidus is that the time that it takes the ascendant to reach the meridian is divided equally into three parts. The
+Alchabitius house system was very popular in Europe before the introduction of the Regiomontanus system.
+Alchabitius (or Alcabitius), was a 10th century Arabianastrologer (died 967).
+Regiomontanus The celestial equator is divided into twelve, and these divisions are projected on to the ecliptic
+along great circles that take in the north and south points on the horizon – named after the German astronomer
+and astrologer Johann Müller of Königsberg. The Regiomontanus system was later largely replaced by the Placidus
+system.
+Meridian Similar to Regiomontanus, except that the east point is taken as the ascendant.
+Topocentric This is a recent system, invented in Argentina, that its creators claim has been determined
+empirically, i.e. by observing events in people's lives and assessing the geometry of a house system that would fit.
+The house cusps are always within a degree of those given in the Placidus system.
+Neo-Porphyry The Neo-Porphyry system of house division is similar to Porphyry houses except that instead of
+each quadrant being divided into three equal sized houses, the middle house in each quadrant is compressed or
+expanded based on the whether the quadrant covers less than or greater than 90 degrees.
+Krusinski A recently published (1995) house system, based on a great circle passing through the ascendant and
+zenith. This circle is divided into 12 equal parts (1st cusp is ascendant, 10th cusp is zenith), then the resulting
+points are projected to the ecliptic through meridian circles.
+37. Revolution of each planet – the orbital revolution of each planet around the
+Sun.  Such as 84 years for Uranus.
+38. Ecliptic – the apparent path of the Sun across the sky every year.  In fact, the
+ecliptic is the orbital plane of the earth around the sun.
+2016 Nodoor Core Course Level Five Lesson 23  10/20
+39. Celestial Sphere – the area of the sky around our globe as viewed from the
+earth, i.e. a geocentric view of the heavens.
+40. Applying & Separating Aspects – applying refers to the degrees and minutes
+prior to an aspect being exact, and separating refers to the minutes and degrees
+of an aspect after it is exact.
+41. Cazimi - also spelled Casimi, and sometimes called Zaminium) is an Arabic word meaning
+"heart of the Sun" or "in the heart of the Sun." It is an astrological term meaning a planet that is
+in exact conjunction with or very near the precise center of the solar disc. A planet that forms a
+conjunction with the Sun within 17' (arc minutes) of partile (exactitude) is said to be Cazimi,
+literally engulfed and fortified by Sol and, as it also may be interpreted, "in the heart of the
+Sun." According to a psychological approach to astrology the Sun, representing the Ego, engulfs
+the energies of the planet in Cazimi and is said to imbue it with the intensely positive and life-
+giving energy and power of the Sun.
+42. Dwadashamsa – a Sanskrit word referring to 1/12 of a sign = 2⁰ 30’.
+43. Decanates - Decanates are another technique that can be employed to delineate the
+finer points of an individual’s character. The use of Decanates is not an absolute must when
+delineating a chart. However, they are quite useful when you want to pick out the subtleties in
+an individual’s chart. In the beginning you may want to apply the use of Decanates to the Sun,
+Moon, and Ascendant because these three factors are so important regarding the total make-
+up of the person. Later on you may apply them to the other planets as well if you wish.
+Sign
+Decanate
+0 degrees to
+9 degrees 59"
+Decanate
+10 degrees to
+19 degrees 59"
+Decanate
+20 degrees to
+29 degrees 59"
+Aries
+Aries
+Leo
+Sagittarius
+Taurus
+Taurus
+Virgo
+Capricorn
+Gemini
+Gemini
+Libra
+Aquarius
+Cancer
+Cancer
+Scorpio
+Pisces
+Leo
+Leo
+Sagittarius
+Aries
+Virgo
+Virgo
+Capricorn
+Taurus
+Libra
+Libra
+Aquarius
+Gemini
+Scorpio
+Scorpio
+Pisces
+Cancer
+Sagittarius
+Sagittarius
+Aries
+Leo
+Capricorn
+Capricorn
+Taurus
+Virgo
+Aquarius
+Aquarius
+Gemini
+Libra
+Pisces
+Pisces
+Cancer
+Scorpio
+2016 Nodoor Core Course Level Five Lesson 23  11/20
+Example: The Sun at 18 degrees Virgo 25" is in the decanate of Capricorn.
+44. Solstices - 0⁰ Cancer and 0⁰ Capricorn.  The farthest north and south the Sun
+appears to move each year.
+45. Houses of Triplicities – houses that share the same element, i.e. the earth
+houses are the 2nd, 6th and 10th, etc.
+46. Interceptions – signs of the zodiac in a chart that do not fall on a house cusp.
+47. Formula for Fortuna – also called the Part of Fortune:
+ASC + Moon – Sun = Part of Fortune
+4⁰    9 sign 4 degrees
++ ASC 27⁰
+9 sign 27 degrees
+18 sign 31 degrees
+-
+20⁰   7 sign 20 degrees
+11 sign  11 degrees
+11⁰
+According to Classical Astrology the formula for the Part of Fortune is different for
+a nocturnal chart than for a diurnal chart; it is ASC + Sun (-) Moon.
+48. Primal Triad -  your basic astrological initials, i.e. your Sun (Will), your Moon
+(Emotions), and your Ascendant ASC (Outer Personality).
+49. Return Charts – Charts calculated for the exact time and place that one’s Sun
+(Solar Return Chart), Moon or other natal planets, such as Mercury, Venus and
+Mars, return to the exact degree, minute and second of zodiacal longitude at birth.
+50. Solar Arc Progression – The minutes or degree and minutes of the progressed
+Sun added to everything in the natal chart.
+51. Primary Directions – Every 4 minutes following birth is equal to 1 year of the
+life.  Extremely precise birth time is required!
+2016 Nodoor Core Course Level Five Lesson 23  12/20
+52. Eclipse Seasons – The only times during a year eclipses can occur, due to the 5°
+inclination of the moon's orbit. Each season lasts for approximately 33 days and
+repeats just short of six months, thus there are always two full eclipse seasons
+each year. 2 to 3 eclipses always occur each eclipse season. During the season the
+inclination of the moon is low, hence the Sun, Moon and Earth become close
+enough in alignment for an eclipse to occur.
+53. Secondary Progressed Moon – The progressed Moon when using Secondary
+Progressions, or The Day for A Year system of progressions.  The progressed
+Moon moves an average of just over 1 degree per month – though this can vary.
+54. Composite Chart – A chart based upon the midpoints between 2 natal charts.
+The composite chart is said to thus “symbolize” the relationship of the couple
+itself.
+55. Synastry – Comparison charts of two natal charts, one has the natal chart in
+the center wheel with the other natal chart in the outer wheel and then this is
+reversed.
+56. Kinds of relationship charts:
+a. Davidson Chart – based upon the mid-dates, times and places of birth for 2
+people.
+b. Composite Chart – based upon mid-points between two natal charts.
+c. Synastry Charts – comparison of both natal charts with each other in 2 wheels.
+57. Planets in Relationship Charts – symbolize the nature of the relationship itself
+in either composite or Davidson charts, and show interaction in Synastry.
+58. Moon Increasing or Decreasing in Light – Said of the Moon when waxing it is
+increasing in light and when waning it is decreasing in light.
+59. Azimuth  - the line of the horizon perpendicular to
+the Zenith of the observer, the Zenith being the point
+immediately overhead.  The azimuth is measured by
+degrees.
+2016 Nodoor Core Course Level Five Lesson 23  13/20
+60. Solar Chart – A chart that places the Sun exactly on the ASC and then numbers
+the house cups accordingly by degree.  A solar chart is often used when the birth
+time is unknown, and approximates sunrise – though latitude and longitude are
+not usually taken into account unless a “sunrise chart” is being calculated for the
+place of birth.
+61. Moon’s Nodes – Two points (or ‘nodes’ from the Latin for knot) of
+intersection where the Moon’s orbit around the Earth crosses the larger orbit of
+the Earth around the Sun (the ecliptic).  The North Node, which astronomers call
+the Ascending Node, corresponds to the point where the Moon crosses the
+ecliptic going “above” 0 degrees of zodiacal latitude, and the South Node, which
+astronomers call the Descending Node, corresponds to the point where the Moon
+crosses the ecliptic going “below” 0 degrees of zodiacal latitude.
+62. Planetary Stations – The place where a planet either goes Retrograde or goes
+Direct.
+63. Heliocentric Zodiac – places the Sun at the center.  The Earth is then in the
+opposite Sign of the Sun, i.e. when the Sun is in Aries the Earth is in Libra.  In
+Heliocentric astrology the Earth’s Moon is not usually considered.  Likewise, none
+of the planets retrograde, and Mercury moves through the zodiac in 88 days.
+64. Planetary Standings –The instances when the planetary movement seems to
+change direction are called standings, during Stationary Retrograde and Direct
+times.
+65. Diurnal & Nocturnal positions – Diurnal means “daytime” and nocturnal
+means “night time.”  The Sun Moon and planets were classically considered
+differently by sign if they were in a daytime chart versus a night time chart in
+Classical Astrology.
+Diurnal planets were considered more comfortable and powerful when they
+appear in charts in which the Sun is above the horizon. They include:
+
+Sun
+
+Jupiter
+
+Saturn
+2016 Nodoor Core Course Level Five Lesson 23  14/20
+Nocturnal planets are more comfortable and powerful when they appear in charts
+in which the Sun is below the horizon, or at night. They are:
+
+Moon
+
+Venus
+
+Mars
+Mercury was considered neutral and given no nocturnal or diurnal attributes.
+66. Benefic & Malefic – Benefic was considered “good” and “malefic” meant bad,
+and was said about the Sun, Moon, or planets by sign, house and or aspect, etc.
+67. Arabian Parts – Called “Arabian parts” because they were used by the Islamic
+Culture that inherited the knowledge of the Classical Greek-Roman world.
+However, these “parts” were used by Roman astrologers extensively and the use
+of them appears to even predate Hellenistic astrology.  The most well known
+“part” is the “Part of Fortune,”but there were many other parts.  All of the parts
+relate to the position of the Sun, Moon or planets relative to the horizon.  For
+example, the position of the Part of Fortune is also an index to the phase of the
+Moon.  There are also 2 different formulas for the part of fortune, one is modern
+the other is ancient.
+2016 Nodoor Core Course Level Five Lesson 23  15/20
+The two formulas for Part of Fortune are: Day Births: Fortune = Ascendant + Moon –
+Sun, Night Births: Fortune = Ascendant + Sun - Moon
+2016 Nodoor Core Course Level Five Lesson 23  16/20
+68. Various Coordinate Systems – Astrologers and astronomers use both the
+same and different coordinate systems for dividing up the celestial sphere, both
+use declination and both use the Ecliptic and Meridian.
+2016 Nodoor Core Course Level Five Lesson 23  17/20
+69. An Electional Chart – A chart set up for the “best date and time possible” for
+an event, such as a party, and interview, a wedding, etc.
+70. Ephemeris – A book of astrological and astronomical tables that lists the
+positions of the Sun, Moon, Planets, nodes and other celestial phenomena.
+71. Table of Houses – A book that lists the degrees and minutes of the signs of the
+zodiac relative to a geographic location and time, and is used to locate the MC,
+ASC and house cusps for an astrological chart.
+72. Galactic Center – the point in the Zodiac around which our Milky Way Galaxy
+is turning, which lines up with the Tropical Zodiac at approximately 26 degrees
+plus of Sagittarius.
+73. Geocentric – Earth centered.  The point of view from living on the Earth
+74. Inferior & Superior Planets -Terms "inferior planet" and "superior planet"
+were originally used in the geocentriccosmology of Claudius Ptolemy to
+differentiate as 'inferior' those planets (Mercury and Venus) that never strayed
+far from the Sun, compared to the 'superior' planets (Mars, Jupiter, and Saturn)
+that did. In the 16th century, the terms were modified by Copernicus, who
+2016 Nodoor Core Course Level Five Lesson 23  18/20
+rejected Ptolemy's geocentric model, to distinguish a planet's orbit's size in
+relation to the Earth's.
+ "Inferior planet" is used in reference to Mercury and Venus, which are
+closer to the Sun than the Earth is.
+ "Superior planet" is used in reference to Mars, Jupiter, Saturn, Uranus,
+Neptune, which are farther from the Sun than the Earth is.
+These terms should not be confused with “inferior” or “superior” conjunctions;
+which is an astronomical term applied to the positions of Mercury and Venus.
+When Mercury is between the Earth and Sun it is said to be in an “inferior
+conjunction” and when it is on the opposite side of the Sun from the Earth it is
+said be in a “superior conjunction.”  The same is true of Venus.  These “inferior
+conjunctions” always occur during the retrograde period of Mercury and Venus
+and are listed in the aspectarian of your Ephemeris as a conjunction between the
+Sun and Mercury, or Sun and Venus.
+75. Imum Coeli – Also abbreviated as IC, means middle of the night and refers to
+the midnight position of the Sun - Local Mean Time.
+76. Medium Coeli - Also abbreviated as MC, means middle of the day or true
+noon and refers to Noon – Local Mean Time.
+77. Lunation - Phases of the Moon, or “lunation cycle.”
+78. Mutual Reception – When the Sun, Moon or planets are in the sign of each
+other’s rulership or association.  Examples: Moon in Leo and Sun in Cancer, or
+Mars in Sagittarius and Jupiter in Aries.
+79. Luminaries – simply refers to the Sun & Moon.
+80. Synodic Month - This is the average period of the Moon's revolution with
+respect to the Sun and Earth. The Synodic month is the period of the Moon's
+phases.  While the moon is orbiting the Earth, the Earth is progressing in its orbit
+around the Sun. Thus the Moon must move a little further to catch-up with the
+Sun. This longer period is called the Synodic month (Greek: σὺν ὁδῴ, sun hodō,
+meaning "with the way [of the Sun]"). The actual time between lunations may
+range from about 29.18 to about 29.93 days. The long-term average duration is
+2016 Nodoor Core Course Level Five Lesson 23  19/20
+29.530589 days (29 d 12 h 44 min 2.9 s). The Synodic month helps in calculating
+eclipses.
+81. Syzygy – a straight line configuration of three celestial bodies.
+82. Nadir – Point directly underneath the observer or place, opposite point to the
+Zenith which is the point directly overhead.  The Nadir and the IC are NOT the
+same thing, except on the Earth’s equator.
+83. Partile – used to describe an aspect where both planets are in the same
+degree, i.e., a square from a planet in the 14th degree of Taurus to a planet in the
+14th degree of Leo. This is a partile square because both planets are in the same
+degree, or close to exact.
+84. Precession of the Equinoxes – the Earth wobbles slightly as it turns on its axis
+and thus the “polar axis” of the Earth shifts over time in a circular rotation that
+takes 26,000 years to complete.  This shift in the orientation of the polar axis
+changes the relative position of the stars to the observer on the earth, slowly
+shifting the relative positions of the constellations that lie along the Ecliptic,
+moving the constellations backyards at the rate of about 2,167 years per
+constellation of the zodiac and even adding parts of other constellations, like
+Ophiuchus, to the zodiac band or ecliptic.
+85. Prime Vertical - is the vertical circle passing east and west through the zenith,
+and intersecting the horizon in its east and west points.
+2016 Nodoor Core Course Level Five Lesson 23  20/20
+86. Ptolemaic Aspects – the major aspects:
+conjunction,
+sextile,
+square,
+trine,
+opposition.
+87. Quadrant - The Natal Chart is divided into the following quadrants:
+ Quadrant 1 (includes houses 1-3)
+ Quadrant 2 (includes houses 4-6)
+ Quadrant 3 (includes houses 7-9)
+ Quadrant 4 (includes houses 10-12)
+88. Saros Cycles – A term that refers to how eclipses can be grouped or classified
+into families of reoccurring association.  “Saros” is a Babylonian word meaning
+“repetition,” as it was the Babylonians that first recognized that Eclipses returned
+to the same place in the heavens every 223 lunations, or 6,585 and 1/3 days, or
+18 years and 9 – 11 days (depending upon the number of leap years).  Each Saros
+Cycle consists of 70 to 71 Solar Eclipses and lasts for a period of about 1260 years.
+Each Saros Cycle has a North Node and a South Node series, determined by which
+Lunar Node the Solar Eclipse is on.  Robert Jansky recognized 19 Saros Cycles in
+effect today.  These Saros Cycles suggest a link or connection with the eclipses
+that occur in the same Saros Cycle, even though they will be at different degrees
+of the zodiac.

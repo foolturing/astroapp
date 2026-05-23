@@ -1,0 +1,200 @@
+\
+2015Level 5课后练习01（出生星图与行进）
+欢迎参加本次课后练习！
+你的学号：
+ HTMLCONTROL Forms.HTML:Text.1 
+一、查找题：请列出十大行星在2016年中开始逆行的时间和星座度数和开始顺行的时间和星座度数，并转换成北京时间。（没有逆行的填“-”。多于一次的请用“；”间隔开。）
+【答题格式：“月日时分，星座+度数”。
+如：（有两次逆行）5月7日20:01，天蝎座5度18分；6月8日10:30，天秤座20度41分。】
+太阳，开始逆行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+太阳，恢复顺行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+月亮，开始逆行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+月亮，恢复顺行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+水星，开始逆行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+水星，恢复顺行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+金星，开始逆行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+金星，恢复顺行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+火星，开始逆行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+火星，恢复顺行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+木星，开始逆行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+木星，恢复顺行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+土星，开始逆行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+土星，恢复顺行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+天王星，开始逆行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+天王星，恢复顺行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+海王星，开始逆行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+海王星，恢复顺行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+冥王星，开始逆行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+冥王星，恢复顺行：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+二、查找题：请列出2016年所有日食和月食的时间，并转换成北京时间。（没有的填“-”）
+【答题格式：“月日时分，星座+度数”。如：5月7日20:01，天蝎座5度18分。】
+日食1：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+日食2：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+日食3：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+月食1：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+月食2：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+月食3：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+三、查找题：请找出下面题干中2016年有关的星相发生时间，并转换成北京时间。（没有的填“-”，多于一次的请用“；”间隔开。）
+【答题格式：“月日时分，星座+度数”。如：5月7日20:01，天蝎座5度18分。】
+土星四分海王：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+木星进入天秤座：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+4月份，月亮在离开天秤座前的最后一个相位
+【格式：月日时分，（行星）（相位）月亮】
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+5月份新月：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+10月份满月：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+四、查找题：如果一个人的出生月亮在射手22°18分，请根据星历表查出在2016-2018年期间，行进土星合相出生月亮的发生时间，采用入相3°和出相1°的容许度范围。
+（时区为0。精准到大概日期即可。若多次发生，请用“；”间隔开。）
+入相位时间点：
+（年月日）
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+精准相位时间点：
+（年月日）
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+出相位时间点：
+（年月日）
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+五、思考题：根据星历表去观察，在表中所列出的行星或虚点中哪些永远不逆行？哪些永远逆行？
+ HTMLCONTROL Forms.HTML:TextArea.1 
+六、思考题：星历表中列出了所有行星和虚点的所落星座，为什么表中没有上升和中天的星座？
+ HTMLCONTROL Forms.HTML:TextArea.1 
+七、思考题：星历表是与经度（longitude）相关，还是与纬度（latitude）相关？
+ HTMLCONTROL Forms.HTML:TextArea.1 
+八、看出生图说话
+
+1. 找出图中的2个渐盈相位与2个渐亏相位（必须是托勒密相位）。填写格式举例：火星四分土星。
+2. 任选一个你觉得重要的相位，描述其在这张星图中的动力与意义。
+3. 说出这张星图的3个重要“主题”。（以星座的形式写）
+渐盈相位1：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+渐盈相位2：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+渐亏相位1：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+渐亏相位2：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+相位解读：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+重要主题1：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+重要主题2：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+重要主题3：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+九、看行进图说话
+
+1. 找出图中的2个入相位与2个出相位（必须是托勒密相位）。格式举例：行进土星对分出生火星。
+2. 再找出图中的3个“重要的”长期行进。（包括托勒密相位与梅花相位）格式举例：行进土星四分出生太阳。
+3. 当时是否有：短期行进触发上题的长期行进？如果有，请列出。格式举例：行进水星六分【行进土星四分出生太阳】。
+4. 任选一个你觉得“重要的”长期行进，描述其可能的动力与意义。
+入相位1：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+入相位2：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+出相位1：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+出相位2：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+长期行进1：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+长期行进2：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+长期行进3：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+短期触发长期1：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+短期触发长期2：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+短期触发长期3：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+你觉得“重要的”
+长期行进的意义：
+ HTMLCONTROL Forms.HTML:TextArea.1 
+
+ 提 交 
+  
+
+ PAGE6 / NUMPAGES6
+

@@ -1,0 +1,388 @@
+2016 Nodoor Core Course Level 5 Lesson 15  1 / 28
+2016 Nodoor Core Course Level Five Lesson 15
+Returns Charts – Solar & Lunar
+© www.nodoor.com
+All return charts are based upon the exact moment that the Sun, Moon or planet
+returns to where it was at the time of birth.  Unlike secondary progressions,
+return charts are calculated for the location the person is at on the day of their
+“return”, rather than for the city of their birth – unless of course they are in their
+birth city at the “return” moment.  Some astrologers use the birth place
+regardless, though most do not.
+It is also possible to calculate return charts for the planets.  However, the most
+common return charts are Solar and Lunar Returns. Solar Returns are charts
+calculated for the moment the Sun returns to its exact birth position, by degree,
+minute and second.
+Solar Return Charts – A chart for the exact time the Sun returns to its birth position.
+Most astrology software programs will calculate a Solar Return chart for you,
+but you can also calculate the time that the Sun returns to its exact natal
+position using your Ephemeris, and then calculate a chart based upon this new
+time and place.  The Sun will return at a different time each year, and not
+always on the same day you were born!
+Sometimes the Sun will return on the day before your birthday and sometimes
+on the day after.  This is because the western calendar used in most of the
+world differs from our zodiac calendar, and why zodiac signs sometimes begin
+on different dates. To calculate a Solar Return chart by hand you’ll need the
+exact position of the natal Sun in degrees, minutes, and seconds of zodiacal
+longitude.
+Your Ephemeris lists the seconds for the Sun, so this is easy enough to do.
+Likewise, most Ephemerides will list the seconds for the Sun and Moon and
+decimals for the planets.  Kepler Software also provides a list that includes the
+exact position of the Sun, as in the case we will study tonight for a male born
+May 30, 1922 at 7:00 P.M. in Porterdale, Georgia, USA.
+Sun is 8 degrees Gemini 45 minutes and 21 seconds.
+Notice that Kepler Software also lists the seconds of the
+Moon and planets, which allows for return charts to be
+hand calculated for the Moon and for the planets too,
+though the software does this instantly.
+2016 Nodoor Core Course Level 5 Lesson 15  2 / 28
+Neither Level Five nor ISAR Exam require hand calculation.
+HAND CALCULATION:
+To calculate a solar return chart by hand simply find the 24 hour interval for
+the year in question.  Then convert the difference between the natal Sun and
+the nearest midnight Sun.  Convert this difference into time.  This will give you
+the exact time of a Solar Return.  Then adjust this time for the time zone of the
+place and set up a chart for this new month, day, year time and place.
+The actual date of your Solar Return may be the day before your birthday,
+the day of your birthday, or the day after.  Using your Ephemeris we can
+easily calculate the time of a Solar Return for the Gemini male listed above;
+this is the first example we will study.  Looking at your Ephemeris for May
+1951, you see that the Sun listed at midnight on May 31 is 8⁰Gemini 45’ 02” –
+just 19” less than the natal Sun.  The natal Sun will fall between May 31, 1951
+at midnight UT and June 1, 1951 at midnight UT.
+In this 24 hour interval the Sun moves 57 ‘and 31” or 57.516666.’ We must
+also convert the 19” into a minute decimal, which is .316666.  To come up
+with right multiplier we divide: .316666 ÷ 57.516666 = .0055056.
+Then multiply .0055056 X 24 hours, which = .1321344 X 60’ = 7.928064’
+(.928064 X 60” = 55.68” or 57’), so the UT is 00:07:57.  A UT of 00:07:57 must
+be converted to Zone 5 West for Atlanta, Georgia – the time zone for the
+place of the return.
+UT is 5 hours ahead of Zone 5 West, so the Standard Time of the Solar Return
+would be 7:07:57 PM on May 30, 1951.  Let’s see if our calculations agree
+with the Kepler Software for this Solar Return Chart.  Our hand calculation
+has come within 3 seconds of clock time to being exact!  Notice the time
+listed below is for 07:07:54 PM on May 30, 1951.  A difference of 3 seconds
+of clock time would not alter this chart at all.
+The Solar Return chart below is the chart of my father, Walter Railey, for a
+year that would prove to be a pivotal year in the story of his life.  A Solar
+Return chart “symbolizes” the issues and probable circumstances that are
+likely to be emphasized between one Solar Return and the next.  Thus the
+Solar Return above symbolizes the period from May 30, 1951 to May 30,
+1952.  First, a Solar Return chart should be considered “by itself” as a picture
+of what is likely to be significant in the year in between birthdates.
+N
+2016 Nodoor Core Course Level 5 Lesson 15  3 / 28
+Second, a Solar Return chart should be compared to the natal chart as well.
+However, it is important to initially identify the main features of a Solar Return
+before comparing it to the natal chart.
+A Solar Return chart can help to “clarify issues” and possible circumstances that
+are likely to arise during the year in question, and may underscore the themes
+suggested by transits and progressions.  Many times a Solar Return chart allows
+the astrologer to better grasp what is really at stake in a person’s life; such
+insight enables the astrologer to offer a better forecast interpretation.
+SOLAR RETURN for May 30, 1951
+2016 Nodoor Core Course Level 5 Lesson 15  4 / 28
+THE METHOD OF INTERPRETING A SOLAR RETURN:
+The number one priority for a Solar Return chart is the house position of the
+SUN, and how the SUN is aspected!  Then list the closest to exact aspects,
+looking for the “unique” qualities that stand out during the moment of this
+Solar Return.  In the Solar Return chart for Walter Railey for 1951 the SUN is
+in the 7th house conjunct Mars, placing significant emphasis upon his
+partnership life.
+Mars is important because it is conjunct the Sun, and Mars is also conjunct
+the DSC.  Mars means “action” and amplifies what is likely to be an eventful
+year relationship wise and eventful in terms of Walter’s partner’s life too. In
+the negative sense Mar’s position implies a potentially frictional or strife filled
+year, though in the positive sense this might mean his partner embarking on
+a new endeavor – or new developments in his relationship life.
+The Sun is sextile Jupiter, which implies opportunities, and the Sun makes a
+waning semi-sextile to Uranus – suggesting some unexpected developments
+from its 8th house position, perhaps an indicator of unexpected or sudden
+access to unusual resources of some kind or a response to confrontation or
+unanticipated “spiritual” crisis.  Remember, the waning semi-sextile can have
+a spiritual or Pisces like quality to it.
+The Sun is also widely square the MC and IC, implying that relationship factors
+could impact home and career as well.  Among the close aspects in Walter’s
+Solar Return chart, the Moon’s opposition to Neptune is at the top of the list.
+Neptune always implies sensitive situations and issues.  Sometimes an aspect
+like this can mean illness within family, especially important females in one’s
+life, i.e. mother or wife or even daughter.
+Overwhelming circumstances can temporarily flood one’s life and lead to
+disillusionment as well.  Of course the nature of an “opposition” tends to play
+out in relationships (remember oppositions correspond to Libra), and often
+with significant tensions.  The Moon also trines Pluto, adding intensity but
+suggests resiliency or resourcefulness in dealing with crisis.
+The Lunar Nodes are very close to the Meridian, with the South Node
+conjunct the MC and the North Node conjunct the IC.  This angular nodal
+indicator implies significantly new developments in terms of family with the
+North Node conjunct the IC and repercussions that would likely impact his
+career or professional status as well with the “reaction” at the South Node on
+the MC.
+2016 Nodoor Core Course Level 5 Lesson 15  5 / 28
+Pisces is the sign of the IC and the North Node, which resonates with
+Neptune and underscores the importance of the Moon Neptune opposition.
+Mercury is trine the MC and the South Node from the 6th House and is the
+associate planet of Virgo, implying that career or job situations were likely to
+develop in a “supportive” response to any new family changes.
+Sometimes this can mean that a job may be more easily obtained and can
+help to improve or better secure circumstances.  Remember, the South Node
+is about security, i.e. seeking familiar ways to secure one’s life.
+Considering these Solar Return indicators what kind of questions would you
+be prepared to ask your client?  Talking with Walter Railey in 1951 you would
+learn that he had been married for 6 years, with two children, and had nearly
+completed his college degree in architecture by attending night school at
+Georgia Tech over the last 5 years while working as a draftsman for an
+architectural firm.  His wife is considering undergoing a new surgical
+procedure for epilepsy, a disorder she has had since age twelve.
+NATAL CHART of WALTER RAILEY
+2016 Nodoor Core Course Level 5 Lesson 15  6 / 28
+COMPARING the SOLAR RETURN to the NATAL CHART:
+In comparing his Solar Return to his natal chart one is immediately struck by
+how similar they are!  It is rare for the angles of a Solar Return to be this
+close to the angles of a natal chart.  The Solar Return SUN may fall in the
+same house as in the natal chart on average about 5 times in the course of a
+lifetime, but only rarely are the angles this close!  Whenever a Solar Return
+chart repeats the natal Sun’s house position this is significant, but even more
+so when the angles of the chart are repeated so closely!
+Remember, the natal chart is always the most important chart, so when the
+stamp of the natal chart is more closely duplicated by the Solar Return there is
+going to be a greater resonance with the basic message of the natal chart.
+Such a Solar Return can mark a pivotal year in a person’s life. When comparing
+the Solar Return to the natal chart one can also readily spot the major transits
+that are in effect.
+2016 Nodoor Core Course Level 5 Lesson 15  7 / 28
+Such a comparison also helps in better understanding the Solar Return and
+allows for a  “reinterpretation” of the transit as well.  For example, consider
+the position of Uranus in the Solar Return.  In the Solar Return Uranus is in
+the 8th house and is semi-sextile the Sun and square Jupiter, but otherwise
+not significantly aspected.  However, upon comparison with the Natal Chart
+we see that Uranus is conjunct natal Venus and Pluto, square the natal
+Lunar Nodes, and square natal Jupiter.
+This makes the position of Uranus obviously more significant in the Solar
+Return, since it is a major outer planet transit at this time.  In the natal
+chart, Uranus is in Pisces conjunct the IC, conjunct the North Node in
+Walter’s Solar Return.  Therefore the “Uranian” influence is accentuated in
+his forecast, implying radical changes underway that could alter the status
+quo of his relationship life.  The position of the Sun in the Solar Return
+already tells us that his relationship life and or partner’s life is “emphasized”
+as a theme during this year of his life.
+How would you counsel Walter regarding his forecast?
+What developed between May 30, 1951 and May 30, 1952?
+In 1951 Walter’s wife Agnes read about a
+leading neurosurgeon in Atlanta that had
+reported success in arresting epilepsy through
+“temporal lobe” brain surgery, depending
+upon the type of epilepsy diagnosed.
+Agnes had not been able to drive a car due to
+the fact that epileptic seizures made driving
+too dangerous.  Though under medication to
+control her seizures, she still had spells of
+unconsciousness and feared she would
+endanger her children.  She would later add, “I
+just wanted a normal life.  I wanted to be able
+to drive a car and take my kids with me like all
+the other moms.”
+2016 Nodoor Core Course Level 5 Lesson 15  8 / 28
+Here is the natal chart of Agnes Railey.  Notice the nearly exact opposition between Mercury
+and Pluto with Mercury Rx in the 3rd house.  Epilepsy is a “neurological crisis” that manifests as
+a seizure or convulsion, which is consistent with the associations of Mercury opposite Pluto.
+The onset of Agnes’ epilepsy had occurred with puberty between ages 12 and 13, suggesting a
+hormonal trigger.  With Scorpio Rising aspects to Pluto are accentuated, and the opposition
+with Pluto is the closest aspect in her chart.
+Following examination by the neurosurgeon in 1951, Agnes was told she was a candidate for
+this new procedure.  She was told that there was “very little risk” with this operation, and that
+the worst that might happen is that she would remain the same and still have epilepsy.  Walter
+was not initially persuaded by his wife’s enthusiasm for the procedure.  Unconvinced regarding
+the safety of the operation, he visited the neurosurgeon several times both with and without
+his wife, until he reluctantly acquiesced to his wife’s desire to go ahead.  Agnes and her mother
+were both optimistic regarding the procedure.
+2016 Nodoor Core Course Level 5 Lesson 15  9 / 28
+In late January 1952 Agnes had her first surgical procedure, which failed to arrest her epilepsy,
+but without any side effects.  In March 1952 Agnes had her second surgical procedure, which
+proved to be disastrous.  In the days following her surgery she was barely able to speak, unable
+to walk, and could only move her upper body in jerky uncoordinated motions – plus she still
+had seizures.  The surgeon told Walter this was only temporary and that she would improve.
+However, in the weeks that followed she did not improve and the surgeon abandoned her as a
+patient and refused Walter’s request for help, telling him that his wife’s symptoms “had
+nothing to do with the surgery.”
+At first Agnes’ Solar Return is not as dramatic or obvious a picture of what transpired.
+However, further investigation uncovers significant indicators.  By itself, the Solar Return shows
+the closest aspect to the Sun as a conjunction to the DSC, i.e. opposite the ASC.  The DSC
+conjunction does underscore an important year in terms of her married life, and the fact that
+the Sun is “angular” increases its significance, but otherwise the Sun is only widely aspected by
+a trine to Pluto and a sextile to Neptune – not strong indicators.  In terms of the angles, the
+other close aspect is the Moon in Virgo conjunct the IC, implying significant domestic events,
+such as the possibility of moving – which did occur, though not as had been planned.
+2016 Nodoor Core Course Level 5 Lesson 15  10 / 28
+The most disruptive aspects of the Solar Return are Mars and Saturn in the 4th house squaring
+Uranus in the 1st house, which suggests some unexpected developments regarding home and
+family, but not on the magnitude of what was experienced, considering that all Solar Return
+charts on December 19, 1951 would have this Mars Saturn square to Uranus – though in
+different houses.
+AGNES Solar Return in the outer wheel with Natal Chart in the middle
+It is only when you compare this Solar Return chart to the natal chart that you begin to see the
+significance of the year that follows. Notice where the Solar Return ASC of 28 degrees Gemini
+falls in the natal chart, it falls in the 8th house but more importantly the “empty leg of the T-
+Square” between the Sun, Moon and Mars in the natal chart!  In addition, notice where Uranus
+falls when compared to the natal chart.  Uranus is conjunct natal Pluto and opposite natal
+Mercury, a more obvious suggestion of “experimental” procedures that could impact the very
+aspect in her natal chart that implies the neurological disorder she had!  Now the Solar Return
+position of Mars and Saturn also takes on added significance, as Mars and Saturn are square the
+natal Mercury Pluto opposition.  This is a good example of how important it is to compare the
+Solar Return chart back to the natal chart.  By the time Agnes had her operations “Mars” was
+no longer at 14 degrees of Libra, even though she was still getting Uranus and Saturn transiting
+2016 Nodoor Core Course Level 5 Lesson 15  11 / 28
+her Mercury Pluto opposition.  Hence, each Solar Return acts as a kind of “imprint,” in that it
+occurs when the Sun realigns with our “birth moment.”  So it is that Mars in the Solar Return
+takes on “added meaning” and significance.  A Solar Return allows you to further “frame the
+context” of a transit as well.  In transiting Agnes’ natal Pluto Mercury opposition, Uranus was
+conjunct Pluto – the ruler of her ASC, i.e. her “physical body.”  In her Solar return Uranus falls in
+her 1st house, again the house of her “body” or anatomy.
+However in looking at the Solar Return charts of the children of Agnes and Walter, David and
+Kathy, for the same year, you will see more dramatic evidence of how Solar Return Charts can
+underscore important trends. Likewise, when you have the charts of everyone in an immediate
+family, you can look for themes that repeat and improve your ability to forecast and counsel
+your clients.  Observe the Solar Return Charts that follow.  What themes do you see repeated?
+Hint: look back at the Solar Return Chart of Walter Railey – what themes are repeated?
+Natal Chart David Railey
+2016 Nodoor Core Course Level 5 Lesson 15  12 / 28
+Solar Return Chart for David Railey October 14, 1951
+2016 Nodoor Core Course Level 5 Lesson 15  13 / 28
+Natal Chart of Kathy Railey January 19, 1948
+Solar Return Chart for Kathy Railey January 19, 1952
+2016 Nodoor Core Course Level 5 Lesson 15  14 / 28
+The Rest of the Story
+Faced with the shock of invalid wife, Walter asked his parents to continue to allow his daughter
+to live with them and an aunt of his wife’s to care for his son.  To pay for medical expenses
+Walter was forced to sell the house they had just finished building and never got to live in.   He
+hired a maid to care for his wife during the day while he worked and then cared for her himself
+when home.
+Then an opportunity arose in late April, when Walter heard of a “free” experimental program
+underway in New York for brain and spinal injuries.  He immediately applied for this program
+and Agnes was accepted.  They moved to New York City where Agnes would undergo nearly 2
+years of physical therapy at Belleview Hospital, while Walter worked as a draftsman for an
+architectural firm.  Agnes regained the ability to speak, though her voice was changed, and to
+use her hands and arms, but was never able to walk again.
+In early 1954 they would return to Atlanta and gradually reunite with their children, David first
+later in 1954 and his sister Kathy in 1956.  A maid assisted the family upon their return to
+Atlanta, and in 1957 Walter and Agnes won a landmark legal case against the neurosurgeon,
+following 3 years of legal battles. This was the first neurosurgeon sued in the US, and during the
+trial it was discovered that he had experimented on scores of other individuals – often poor or
+low-income individuals, leading to death or permanent disability.
+The case made local headlines between 1954 – 1957, partially for the high amount of money
+awarded, and paved the way for others to pursue legal action against this neurosurgeon and
+others.  [Prior to 1957 very few doctors were sued in the US, and in the Southern US doctors
+were as highly trusted as ministers.]  The surgeon had his medical license temporarily revoked.
+In the trial it was eventually uncovered that the neurosurgeon had not followed correct medical
+and surgical standards or procedures during Agnes’ neurosurgery, and was found to be willfully
+negligent.
+Agnes would remain dependent upon a wheelchair for 53-years, but the courage she showed
+on the witness stand facing a doctor that had cruelly lied to her and failed his oath to “do no
+harm,”  would be tested for many years in an agonizing struggle.  Over time she would
+transform and evolve through her tragedy to become a peaceful radiant woman that brought
+joy to her grandkids and to everyone that knew her during the latter decades of her life.  She
+became the “center piece” around which her family revolved, a family that would grow to
+include 5 grandkids and eventually 7 great-grandkids.
+2016 Nodoor Core Course Level 5 Lesson 15  15 / 28
+LUNAR RETURN CHARTS
+© www.nodoor.com
+Lunar Return charts are based upon the exact return of your natal
+Moon by degree, minute and second of zodiacal longitude each month or
+approximately every 28 days.  This chart is a quick reference forecasting
+tool for the month in question, i.e. between the dates of the Lunar Return,
+and is an excellent guide to typical lunar issues of emotional wellbeing,
+security, family, household and domestic life.  The Lunar Return shows the
+mood of the month and in addition to psychological issues may even
+suggest circumstances.
+This is the natal chart of Prince Charles.  The chart that follows is Prince Charles’ Lunar
+Return Chart in effect when Princess Diana tragically died in a car crash on August 31, 1997.
+2016 Nodoor Core Course Level 5 Lesson 15  16 / 28
+Even though Prince Charles and Princess Diana were divorced at the time, the emotional shock
+of this event clearly shows in the following Lunar Return Chart.  You should take special notice
+of the position of Mars and Uranus, especially in terms of how they aspect the Moon.  This is a
+very dramatic example of how a Lunar Return Chart can refer to potential  emotional dynamics
+and possible circumstances.  Remember we can only guess at the circumstances beforehand.
+However, any astrologer viewing this Lunar Return Chart prior to August 31 would have
+discussed family related concerns with Prince Charles, and asked questions about family plans
+or upsetting issues that currently existed.  In addition to the Moon, Mars, Uranus T square, the
+position of the Lunar Nodes on the angles, with the N. Node on the DSCN suggesting new
+significant developments impacting partnership life.
+2016 Nodoor Core Course Level 5 Lesson 15  17 / 28
+Natal chart of Johnny Depp
+The Lunar Return that follows occurred just before his daughter Lily Rose was born in Paris on
+May 27, 1999.  The pronounced Lunar Return placement on the ASC is another dramatic
+example of an eventful month ahead.  This angular placement of the Moon underscores the
+importance of significant family circumstances and emotional issues.  Note the Sun’s position
+trine the Moon, and conjunct the IC, further emphasizing domestic events.  Likewise observe
+the position of Uranus squaring the Sun, and the MC and IC axis.
+2016 Nodoor Core Course Level 5 Lesson 15  18 / 28
+Lunar Return Johnny Depp for the month his daughter was born.
+2016 Nodoor Core Course Level 5 Lesson 15  19 / 28
+Female
+This is the natal chart of a long time client.  There are 2 Lunar Return Charts which follow.  The
+first Lunar Return chart occurred just before her divorce was finalized.  The divorce had been a
+long drawn out battle over property and money.  They have 3 kids as well, so there was a lot to
+consider.  For reasons relating to her transits and progressions and the chart of her “future ex-
+husband,” I had pushed her to go ahead and finalize the divorce.  This Lunar Return Chart also
+shows some benefits to settling in regards to partner’s money, though this chart was not my
+main reason for advising her to agree.  It was a chaotic time in her life; witness the square from
+Uranus.  However, in December of 2008 she learned that her ex-husband had lost all of his
+investments, as had his parents, in the Bernie Madoff scandal that erupted.  Having already
+received her properties and financial settlements she was safe!  Had she waited much longer in
+the divorce she would have received very little for herself and her children in the wake of her
+ex-husbands financial disaster.
+2016 Nodoor Core Course Level 5 Lesson 15  20 / 28
+The Moon’s 8th House position emphasizes partner’s money issues.  It’s
+also true that this chart might have suggested intimacy issues as well – if
+they hadn’t already been in a protracted divorce for over a year.  Note the
+Moon’s trine to Mars, Mercury and Venus, as well as to Neptune – making
+a grand trine.  These Libra planets support the transiting trine of Neptune
+to the Moon.  Uranus is closely square the Moon – an ongoing transit that
+year.  The Sun square Pluto implies underground developments that might
+surface later, especially in regards to 2nd house issues – i.e. money!
+2016 Nodoor Core Course Level 5 Lesson 15  21 / 28
+Of course I think the Lunar Return Chart for December is also dramatic.  Look at
+the Moon’s position, opposite Mars and the Sun, square Saturn and Uranus –
+with Saturn in the 7th house of partners.  Do you see?  This Lunar Return is also
+part of a Full Moon Phase!  Can you imagine how this December Lunar Return
+Chart might have expressed itself if she had not previously settled the divorce in
+late September?
+2016 Nodoor Core Course Level 5 Lesson 15  22 / 28
+Female
+This is the natal chart of a client whose daughter was born with a serious heart
+disorder that threatened her health off and on, despite many attempts to treat
+and correct the problem.  Nonetheless, her daughter had gone on to try and
+live a normal life, and married and had 3 children without experiencing any
+cardiac complications.  During her last 6 months her daughter told her
+privately she had decided to divorce her husband, but she would die suddenly
+of cardiac failure on May 23, 2010 at the age of 36 before pursuing a divorce.
+2016 Nodoor Core Course Level 5 Lesson 15  23 / 28
+The Lunar Return chart above shows clearly a potential for shock and sadness
+and possible loss for my client.  Note the close square from Uranus, with
+Uranus conjunct the 8th house cusp, and of the close square from Saturn.
+What else do you notice about this Lunar Return Chart?
+2016 Nodoor Core Course Level 5 Lesson 15  24 / 28
+Male
+This is the natal chart of a client I’ve known for the last twelve years.  The
+Lunar Return Chart that follows shows a unique emphasis around the
+Moon!  His Moon is applying close to a New Moon Phase and a Solar
+Eclipse, plus Venus is also conjunct the Moon and Sun.  Note also Uranus
+sextile the Moon, Jupiter and Neptune in the 4th house and Mars conjunct
+the MC opposite the IC.  During this Lunar Return he would become a
+father for the first time upon the birth of a son on January 27, 2010.
+2016 Nodoor Core Course Level 5 Lesson 15  25 / 28
+How might Mars in Leo on the MC reflect his feelings during the
+month of his son’s birth?
+2016 Nodoor Core Course Level 5 Lesson 15  26 / 28
+Here is the natal chart for US President Barack Obama.  The Lunar Return chart that follows is
+the one that occurred immediately following his election as President.
+2016 Nodoor Core Course Level 5 Lesson 15  27 / 28
+The Moon is not strongly aspected in this Lunar Return Chart, but I noticed the
+angular positions of Uranus and Saturn.  Looks like a possible change of career,
+something radical and new!  Likewise it appears that his home and family life
+would be going through some serious changes!  What else do you notice about
+this Lunar Return, or in comparison with his natal chart?
+2016 Nodoor Core Course Level 5 Lesson 15  28 / 28
+Now look at the Lunar Return chart that David found for the month prior to his
+lecture, during which time the election would occur!
+What similarities do you notice between this chart and the Lunar Return that
+will follow in November?

@@ -1,0 +1,11 @@
+1
+生时校正案例星图
+Dr. Peter Jones 12 am April 10, 1941 in Greenville, SC
+2
+Dr. Peter Jones 6am April 10, 1941 in Greenville, SC
+3
+Dr. Peter Jones 12pm April 10, 1941 in Greenville, SC
+4
+Dr. Peter Jones 6pm April 10, 1941 in Greenville, SC
+5
+Dr. Peter Jones 11:45pm April 10, 1941 in Greenville, SC
