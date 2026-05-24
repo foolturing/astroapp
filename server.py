@@ -83,7 +83,20 @@ def run_synthesis(birth, question, house_system="P"):
 
     chart_text = build_chart_text(chart, question, birth.get("location_name", ""))
 
-    user_message = f"""以下是客户的星盘数据和推运数据。
+    question_block = ""
+    if question:
+        question_block = f"""
+## 客户问题
+
+客户问：**{question}**
+
+请在输出结构的"回应你的问题"章节直接回应。调用第三步的宫主星+飞星逻辑，找出问题对应宫位及其宫主星飞入的宫位，结合相关行星的四层解读，给出具体分析。不是泛泛地说"你适合做创意行业"，是说"你 5 宫主星木星飞 10 宫射手三分太阳——你在工作中展示创造力本身就是事业路径"。
+"""
+    else:
+        question_block = "\n## 客户问题\n\n客户无特定问题，请做全面解读。\n"
+
+    user_message = f"""{question_block}
+以下是客户的星盘数据和推运数据。
 
 {chart_text}
 
@@ -93,8 +106,6 @@ def run_synthesis(birth, question, house_system="P"):
 
 请按照你的解读流程，为这位客户生成一份完整的本命盘+推运解读。
 
-客户问题说明：{"客户的问题是" + question if question else "无特定问题，请做全面解读"}
-
 要求：
 1. 命主星和 Sect Light 必须包含四层完整解读（基本特征、世俗优劣、业力焦点、解法），不能因输入内容增多而跳过任何一层
 2. 每个核心张力必须给出具体的解法
@@ -102,8 +113,7 @@ def run_synthesis(birth, question, house_system="P"):
 4. 用"你"称呼客户
 5. 运势部分结合法达/小限/行运数据，指出当前所处的人生章节和行动窗口。行动窗口必须写具体：什么时间、适合做什么、为什么是这个时机
 6. 关键相位章节必须列出最重要的 3-5 个相位并各附一句解读
-7. 如果客户有具体问题领域，在解读中重点回应这些领域
-8. 禁止任何只有标题没有内容的空段落——每个 ## 或 ### 标题下面必须有至少一段实质内容"""
+7. 禁止任何只有标题没有内容的空段落——每个 ## 或 ### 标题下面必须有至少一段实质内容"""
 
     if not DEEPSEEK_API_KEY:
         raise RuntimeError("DEEPSEEK_API_KEY environment variable not set")
