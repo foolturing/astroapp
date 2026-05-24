@@ -355,9 +355,6 @@ FORM_HTML = """<!DOCTYPE html>
 	  <label>折扣码</label>
 	  <input type="text" name="discount" placeholder="输入折扣码解锁完整报告" autocomplete="off">
 
-	  <label>访问令牌</label>
-	  <input type="password" id="token" name="token" placeholder="输入访问令牌" autocomplete="off">
-
 	  <div class="disclaimer">
 	    <p>本工具由 AI 生成解读，仅供兴趣参考。相关内容不构成医疗、法律、投资或心理咨询建议。</p>
 	    <p>隐私说明：出生信息仅用于生成星盘解读，处理后不会公开或分享。出生数据会发送至 DeepSeek（AI 服务商）以生成解读文本。解读内容可能被匿名化后用于服务质量改进。建议姓名一栏使用昵称，勿填真实姓名。勾选即表示您已了解并同意上述说明。</p>
@@ -382,27 +379,54 @@ FORM_HTML = """<!DOCTYPE html>
 <div class="toast" id="toast"></div>
 
 <div id="feedback">
-  <h3>帮助我们做得更好（2-3 题，约 10 秒）</h3>
+  <h3>帮我们改进（约 10 秒）</h3>
   <div class="f-row">
-    <span class="f-label">解读的整体质量</span>
+    <span class="f-label">整体质量</span>
     <div class="stars" id="stars-quality">
       <button data-v="1">1</button><button data-v="2">2</button><button data-v="3">3</button><button data-v="4">4</button><button data-v="5">5</button>
     </div>
   </div>
   <div class="f-row">
-    <span class="f-label">不满意的点（可多选，没有可不选）</span>
-    <div class="tags" id="tags-issues">
-      <button data-v="太抽象，不够落地">太抽象</button>
-      <button data-v="内容太少，不够详细">内容太少</button>
-      <button data-v="太啰嗦，抓不住重点">太啰嗦</button>
-      <button data-v="术语太多，看不懂">术语太多</button>
-      <button data-v="推运部分不够具体">推运不具体</button>
-      <button data-v="缺少具体的行动建议">缺行动建议</button>
+    <span class="f-label">做得好的地方（可多选）</span>
+    <div class="tags" id="tags-likes">
+      <button data-v="报告详细">报告详细</button>
+      <button data-v="内容接地气">内容接地气</button>
+      <button data-v="好理解">好理解</button>
+      <button data-v="推运明确">推运明确</button>
+      <button data-v="操作简单">操作简单</button>
+      <button data-v="界面舒适">界面舒适</button>
     </div>
   </div>
   <div class="f-row">
-    <span class="f-label">还有什么想说的（选填）</span>
-    <textarea id="f-text" placeholder="任何建议或吐槽…"></textarea>
+    <span class="f-label">哪里不够好（可多选）</span>
+    <div class="tags" id="tags-issues" style="flex-direction:column;align-items:flex-start;gap:4px">
+      <span style="font-size:.7em;color:#666;width:100%">内容</span>
+      <div style="display:flex;flex-wrap:wrap;gap:6px;width:100%">
+        <button data-v="报告太抽象，不够落地">太抽象</button>
+        <button data-v="内容太少，不够详细">内容太少</button>
+        <button data-v="术语太多，看不懂">术语太多</button>
+        <button data-v="推运部分不够具体">推运不具体</button>
+      </div>
+      <span style="font-size:.7em;color:#666;width:100%;margin-top:6px">体验</span>
+      <div style="display:flex;flex-wrap:wrap;gap:6px;width:100%">
+        <button data-v="等待时间太长">等太久</button>
+        <button data-v="表单填写太麻烦">填表麻烦</button>
+      </div>
+      <span style="font-size:.7em;color:#666;width:100%;margin-top:6px">视觉</span>
+      <div style="display:flex;flex-wrap:wrap;gap:6px;width:100%">
+        <button data-v="排版不好">排版不好</button>
+        <button data-v="设计不好看">设计不好看</button>
+      </div>
+      <input type="text" id="f-issue-other" placeholder="其他…" style="margin-top:8px;padding:6px 12px;border:1px solid #555;border-radius:16px;background:transparent;color:#aaa;font-size:.8em;width:100%">
+    </div>
+  </div>
+  <div class="f-row">
+    <span class="f-label">还会再来吗</span>
+    <div class="tags" id="tags-return">
+      <button data-v="会">会</button>
+      <button data-v="有朋友推荐就会">有人推荐就会</button>
+      <button data-v="不会">不会</button>
+    </div>
   </div>
   <button class="f-submit" id="f-submit" onclick="submitFeedback()">提交反馈</button>
   <div class="f-thanks" id="f-thanks">感谢反馈！</div>
@@ -533,10 +557,8 @@ document.getElementById('form').addEventListener('submit', async function(e) {
   };
 
   try {
-    var authToken = document.getElementById('token').value;
     var sessionId = '{{ session_id }}';
     var headers = {'Content-Type': 'application/json', 'X-Session-ID': sessionId};
-    if (authToken) headers['Authorization'] = 'Bearer ' + authToken;
 
     // Step 1: submit task
     var submitResp = await fetch('/api/synthesis', {
@@ -637,7 +659,7 @@ function showToast(msg) {
 }
 
 // ── Feedback Survey ──
-let feedbackState = { quality: 0, issues: [] };
+let feedbackState = { quality: 0, likes: [], issues: [], returnIntent: '' };
 
 document.querySelectorAll('#stars-quality button').forEach(btn => {
   btn.addEventListener('click', function() {
@@ -647,6 +669,19 @@ document.querySelectorAll('#stars-quality button').forEach(btn => {
       if (parseInt(b.dataset.v) <= feedbackState.quality) b.classList.add('active');
     }
     document.getElementById('feedback').style.display = 'block';
+  });
+});
+
+document.querySelectorAll('#tags-likes button').forEach(btn => {
+  btn.addEventListener('click', function() {
+    const v = this.dataset.v;
+    if (feedbackState.likes.includes(v)) {
+      feedbackState.likes = feedbackState.likes.filter(x => x !== v);
+      this.classList.remove('active');
+    } else {
+      feedbackState.likes.push(v);
+      this.classList.add('active');
+    }
   });
 });
 
@@ -663,17 +698,28 @@ document.querySelectorAll('#tags-issues button').forEach(btn => {
   });
 });
 
+document.querySelectorAll('#tags-return button').forEach(btn => {
+  btn.addEventListener('click', function() {
+    feedbackState.returnIntent = this.dataset.v;
+    document.querySelectorAll('#tags-return button').forEach(b => b.classList.remove('active'));
+    this.classList.add('active');
+  });
+});
+
 async function submitFeedback() {
   const btn = document.getElementById('f-submit');
   btn.disabled = true;
+  var otherText = document.getElementById('f-issue-other').value.trim();
+  if (otherText) feedbackState.issues.push(otherText);
   try {
     await fetch('/api/feedback', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         quality: feedbackState.quality,
+        likes: feedbackState.likes,
         issues: feedbackState.issues,
-        comment: document.getElementById('f-text').value.trim()
+        return_intent: feedbackState.returnIntent,
       })
     });
     document.getElementById('f-thanks').style.display = 'block';
@@ -880,8 +926,9 @@ def api_feedback():
     feedback = {
         "timestamp": datetime.now().isoformat(),
         "quality": data.get("quality", 0),
+        "likes": data.get("likes", []),
         "issues": data.get("issues", []),
-        "comment": data.get("comment", ""),
+        "return_intent": data.get("return_intent", ""),
     }
     try:
         log_path = OUTPUT_DIR / "user_feedback.jsonl"
