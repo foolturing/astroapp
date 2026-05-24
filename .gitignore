@@ -1,7 +1,7 @@
 transcripts/
 __pycache__/
 *.pyc
-run_*.py
 install.sh
 start.sh
 output/user_*.jsonl
+.env

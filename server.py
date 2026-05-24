@@ -376,7 +376,8 @@ FORM_HTML = """<!DOCTYPE html>
 
 <div id="loading">
   <div class="spinner"></div>
-  <p>正在生成解读，约需 30-60 秒…</p>
+  <p>正在生成解读，约需 2-4 分钟…</p>
+  <p style="font-size:.8em;color:#c9a84c">生成过程中请勿关闭页面</p>
 </div>
 
 <div id="result">
@@ -443,6 +444,49 @@ FORM_HTML = """<!DOCTYPE html>
 </div>
 
 <script>
+// ── Recover task if page was closed during generation ──
+(function() {
+  var pendingId = sessionStorage.getItem('pending_task_id');
+  if (!pendingId) return;
+  // Don't recover if this is a fresh form page (user hasn't submitted yet)
+  var sessionId = '{{ session_id }}';
+  var loading = document.getElementById('loading');
+  var result = document.getElementById('result');
+  loading.style.display = 'block';
+  document.getElementById('form').style.display = 'none';
+  async function poll() {
+    for (var i = 0; i < 120; i++) {
+      await new Promise(function(r) { setTimeout(r, 2000); });
+      var resp = await fetch('/api/task/' + pendingId, {headers: {'X-Session-ID': sessionId}});
+      if (!resp.ok) continue;
+      var data = await resp.json();
+      if (data.status === 'done') {
+        document.getElementById('result-content').innerHTML = data.result.html;
+        document.getElementById('save-bar').style.display = 'flex';
+        window._synthesisRaw = data.result.synthesis;
+        window._synthesisOk = true;
+        sessionStorage.removeItem('pending_task_id');
+        loading.style.display = 'none';
+        result.style.display = 'block';
+        return;
+      } else if (data.status === 'error') {
+        document.getElementById('result-content').innerHTML = '<div class="error">' + (data.error || '生成失败') + '</div>';
+        window._synthesisOk = false;
+        sessionStorage.removeItem('pending_task_id');
+        loading.style.display = 'none';
+        result.style.display = 'block';
+        return;
+      }
+    }
+    // Timeout
+    document.getElementById('result-content').innerHTML = '<div class="error">解读超时，请重新提交</div>';
+    sessionStorage.removeItem('pending_task_id');
+    loading.style.display = 'none';
+    result.style.display = 'block';
+  }
+  poll();
+})();
+
 // Province → city data
 var PROVINCES = {{ provinces | tojson }};
 
@@ -582,6 +626,7 @@ document.getElementById('form').addEventListener('submit', async function(e) {
     }
     var submitData = await submitResp.json();
     var taskId = submitData.task_id;
+    sessionStorage.setItem('pending_task_id', taskId);
 
     // Step 2: poll for result
     var attempts = 0;
@@ -597,26 +642,30 @@ document.getElementById('form').addEventListener('submit', async function(e) {
         document.getElementById('save-bar').style.display = 'flex';
         window._synthesisRaw = pollData.result.synthesis;
         window._synthesisOk = true;
+        sessionStorage.removeItem('pending_task_id');
         break;
       } else if (pollData.status === 'error') {
         document.getElementById('result-content').innerHTML = '<div class="error">' + (pollData.error || '未知错误') + '</div>';
         document.getElementById('save-bar').style.display = 'none';
         window._synthesisOk = false;
+        sessionStorage.removeItem('pending_task_id');
         break;
       }
       // Show progress
       var dots = '.'.repeat(attempts % 4);
-      document.getElementById('loading').querySelector('p').textContent = '正在生成解读，约需 30-60 秒' + dots;
+      document.getElementById('loading').querySelector('p').textContent = '正在生成解读，约需 2-4 分钟' + dots;
     }
     if (attempts >= maxAttempts) {
       document.getElementById('result-content').innerHTML = '<div class="error">解读超时，请稍后重试</div>';
       document.getElementById('save-bar').style.display = 'none';
       window._synthesisOk = false;
+      sessionStorage.removeItem('pending_task_id');
     }
   } catch(err) {
     document.getElementById('result-content').innerHTML = '<div class="error">请求失败: ' + err.message + '</div>';
     document.getElementById('save-bar').style.display = 'none';
     window._synthesisOk = false;
+    sessionStorage.removeItem('pending_task_id');
   } finally {
     btn.disabled = false;
     loading.style.display = 'none';
