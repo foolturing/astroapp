@@ -24,6 +24,7 @@ app = Flask(__name__)
 DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 DEEPSEEK_BASE_URL = os.environ.get("DEEPSEEK_BASE_URL", "https://api.deepseek.com/anthropic")
 AUTH_TOKEN = os.environ.get("AUTH_TOKEN", "")
+DISCOUNT_CODES = set(c.strip() for c in os.environ.get("DISCOUNT_CODES", "EARLY50,TESTER").split(",") if c.strip())
 
 # ── In-memory task store ──
 _task_store = {}  # task_id → {status, result, error, created_at}
@@ -351,6 +352,9 @@ FORM_HTML = """<!DOCTYPE html>
   <label>想问什么？（选填）</label>
   <textarea name="question" rows="3" placeholder="例：事业发展、感情运势、财运方向...&#10;留空 = 全面解读"></textarea>
 
+	  <label>折扣码</label>
+	  <input type="text" name="discount" placeholder="输入折扣码解锁完整报告" autocomplete="off">
+
 	  <label>访问令牌</label>
 	  <input type="password" id="token" name="token" placeholder="输入访问令牌" autocomplete="off">
 
@@ -514,6 +518,7 @@ document.getElementById('form').addEventListener('submit', async function(e) {
 
   const body = {
     name: fd.get('name'),
+    discount: fd.get('discount').trim(),
     birth: {
       date: fd.get('date'),
       time: fd.get('time'),
@@ -767,6 +772,10 @@ def api_synthesis():
     birth = data.get("birth", {})
     if not birth.get("date") or not birth.get("time") or not birth.get("lat") or not birth.get("lon"):
         return jsonify({"error": "缺少必填字段: birth.date, birth.time, birth.lat, birth.lon"}), 400
+
+    discount = data.get("discount", "").strip()
+    if discount not in DISCOUNT_CODES:
+        return jsonify({"error": "折扣码无效，请输入有效的折扣码"}), 403
 
     time_str = birth["time"]
     if len(time_str.split(":")) != 2:
