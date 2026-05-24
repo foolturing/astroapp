@@ -4,3 +4,4 @@ __pycache__/
 run_*.py
 install.sh
 start.sh
+output/user_*.jsonl
