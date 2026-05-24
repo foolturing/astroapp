@@ -53,11 +53,11 @@ nginx -t && systemctl restart nginx
 echo "Nginx done"
 
 # Auto-start on reboot
-(crontab -l 2>/dev/null; echo '@reboot cd /opt/astrologist && DEEPSEEK_API_KEY=sk-901922ed10664abd981537a2e4bb1bb8 DEEPSEEK_BASE_URL=https://api.deepseek.com/anthropic AUTH_TOKEN=10d0ss python3 server.py > /tmp/astro.log 2>&1') | crontab -
+(crontab -l 2>/dev/null; echo '@reboot cd /opt/astrologist && DEEPSEEK_API_KEY=YOUR_DEEPSEEK_API_KEY DEEPSEEK_BASE_URL=https://api.deepseek.com/anthropic AUTH_TOKEN=YOUR_AUTH_TOKEN python3 server.py > /tmp/astro.log 2>&1') | crontab -
 
 # Start now
 pkill -f "server.py" 2>/dev/null || true
-cd /opt/astrologist && DEEPSEEK_API_KEY=sk-901922ed10664abd981537a2e4bb1bb8 DEEPSEEK_BASE_URL=https://api.deepseek.com/anthropic AUTH_TOKEN=10d0ss nohup python3 server.py > /tmp/astro.log 2>&1 &
+cd /opt/astrologist && DEEPSEEK_API_KEY=YOUR_DEEPSEEK_API_KEY DEEPSEEK_BASE_URL=https://api.deepseek.com/anthropic AUTH_TOKEN=YOUR_AUTH_TOKEN nohup python3 server.py > /tmp/astro.log 2>&1 &
 sleep 4
 curl -s http://localhost/ | head -1 && echo ""
 echo "=== DONE: https://898802.xyz ==="

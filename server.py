@@ -596,10 +596,12 @@ document.getElementById('form').addEventListener('submit', async function(e) {
         document.getElementById('result-content').innerHTML = pollData.result.html;
         document.getElementById('save-bar').style.display = 'flex';
         window._synthesisRaw = pollData.result.synthesis;
+        window._synthesisOk = true;
         break;
       } else if (pollData.status === 'error') {
         document.getElementById('result-content').innerHTML = '<div class="error">' + (pollData.error || '未知错误') + '</div>';
         document.getElementById('save-bar').style.display = 'none';
+        window._synthesisOk = false;
         break;
       }
       // Show progress
@@ -609,10 +611,12 @@ document.getElementById('form').addEventListener('submit', async function(e) {
     if (attempts >= maxAttempts) {
       document.getElementById('result-content').innerHTML = '<div class="error">解读超时，请稍后重试</div>';
       document.getElementById('save-bar').style.display = 'none';
+      window._synthesisOk = false;
     }
   } catch(err) {
     document.getElementById('result-content').innerHTML = '<div class="error">请求失败: ' + err.message + '</div>';
     document.getElementById('save-bar').style.display = 'none';
+    window._synthesisOk = false;
   } finally {
     btn.disabled = false;
     loading.style.display = 'none';
@@ -739,9 +743,9 @@ async function submitFeedback() {
   }
 }
 
-// Show feedback when result appears
+// Show feedback only when synthesis succeeds
 var resultObserver = new MutationObserver(function() {
-  if (document.getElementById('result').style.display !== 'none') {
+  if (document.getElementById('result').style.display !== 'none' && window._synthesisOk) {
     document.getElementById('feedback').style.display = 'block';
   }
 });
